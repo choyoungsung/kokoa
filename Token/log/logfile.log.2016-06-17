@@ -1,0 +1,105 @@
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,510] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/799/069/799069571.jpg, price=133,350원226,010원 40%할인, title=Colorado Clothing Mens Heavy Weight Micro Fleece J, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/799/069/799069571.jpg, price=133,350원226,010원 40%할인, title=Colorado Clothing Mens Heavy Weight Micro Fleece J, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,510] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/278/797278518.jpg, price=106,860원137,000원 22%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Steens Mountain Front-Zip F..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/278/797278518.jpg, price=106,860원137,000원 22%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Steens Mountain Front-Zip F..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,510] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/278/797278508.jpg, price=119,270원152,900원 21%할인, title=해외쇼핑/U.S. Polo Assn. Mens Polar-Fleece Jacket, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/278/797278508.jpg, price=119,270원152,900원 21%할인, title=해외쇼핑/U.S. Polo Assn. Mens Polar-Fleece Jacket, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,510] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/268/797268845.jpg, price=69,110원88,600원 21%할인, title=해외쇼핑/Doublju Mens Zipper Colorblock Lightweigh..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/268/797268845.jpg, price=69,110원88,600원 21%할인, title=해외쇼핑/Doublju Mens Zipper Colorblock Lightweigh..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,510] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/268/797268828.jpg, price=119,270원152,900원 21%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Granite Mountain Fleece Jac..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/268/797268828.jpg, price=119,270원152,900원 21%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Granite Mountain Fleece Jac..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,510] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200177.jpg, price=255,060원327,000원 22%할인, title=[나이키] 해외쇼핑/Nike Sportswear Nike Tech Aw77 Fz Hoodie, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200177.jpg, price=255,060원327,000원 22%할인, title=[나이키] 해외쇼핑/Nike Sportswear Nike Tech Aw77 Fz Hoodie, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200161.jpg, price=136,500원175,000원 22%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Fast Trek II Front-Zip Flee..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200161.jpg, price=136,500원175,000원 22%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Fast Trek II Front-Zip Flee..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200141.jpg, price=103,040원132,100원 21%할인, title=해외쇼핑/White Sierra Mens Mountain Jacket, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200141.jpg, price=103,040원132,100원 21%할인, title=해외쇼핑/White Sierra Mens Mountain Jacket, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200117.jpg, price=347,650원445,700원 21%할인, title=[스파이더] 해외쇼핑/Spyder Mens Constant Full Zip Sweater, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200117.jpg, price=347,650원445,700원 21%할인, title=[스파이더] 해외쇼핑/Spyder Mens Constant Full Zip Sweater, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200089.jpg, price=245,630원314,900원 21%할인, title=[노스페이스] 해외쇼핑/The North Face Mens Canyonwall Jacket, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200089.jpg, price=245,630원314,900원 21%할인, title=[노스페이스] 해외쇼핑/The North Face Mens Canyonwall Jacket, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200088.jpg, price=165,600원212,300원 21%할인, title=[아웃도어리서치] 해외쇼핑/Outdoor Research Mens Radiant Hybrid Jack..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200088.jpg, price=165,600원212,300원 21%할인, title=[아웃도어리서치] 해외쇼핑/Outdoor Research Mens Radiant Hybrid Jack..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200064.jpg, price=232,910원298,600원 21%할인, title=[마모트] 해외쇼핑/Marmot Mens Reactor Jacket, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200064.jpg, price=232,910원298,600원 21%할인, title=[마모트] 해외쇼핑/Marmot Mens Reactor Jacket, catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200048.jpg, price=101,170원129,700원 21%할인, title=[컬럼비아] 해외쇼핑/Columbia Sportswear Mens PFG Triangle Hoo..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200048.jpg, price=101,170원129,700원 21%할인, title=[컬럼비아] 해외쇼핑/Columbia Sportswear Mens PFG Triangle Hoo..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200007.jpg, price=90,250원115,700원 21%할인, title=해외쇼핑/WOLFBIKE Fleece Thermal Cycling Jacket Je..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/200/797200007.jpg, price=90,250원115,700원 21%할인, title=해외쇼핑/WOLFBIKE Fleece Thermal Cycling Jacket Je..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/199/797199989.jpg, price=220,670원282,900원 21%할인, title=[아디다스] 해외쇼핑/Adidas Outdoor Mens Hiking Melange Fleece..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/199/797199989.jpg, price=220,670원282,900원 21%할인, title=[아디다스] 해외쇼핑/Adidas Outdoor Mens Hiking Melange Fleece..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/600/794600202.jpg, price=234,550원300,700원 21%할인, title=[노스페이스] 해외쇼핑/The North Face Chimborazo Full Zip Fleece..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/600/794600202.jpg, price=234,550원300,700원 21%할인, title=[노스페이스] 해외쇼핑/The North Face Chimborazo Full Zip Fleece..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545560.jpg, price=157,100원201,400원 21%할인, title=[헬리한센] 해외쇼핑/Helly Hansen Mens Daybreaker Fleece Jacke..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545560.jpg, price=157,100원201,400원 21%할인, title=[헬리한센] 해외쇼핑/Helly Hansen Mens Daybreaker Fleece Jacke..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545513.jpg, price=232,910원298,600원 21%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Atlas Mountain Fleece Jacke..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545513.jpg, price=232,910원298,600원 21%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Atlas Mountain Fleece Jacke..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545512.jpg, price=77,930원99,900원 21%할인, title=해외쇼핑/Storm Creek Apparel Mens Drop Needle Micr..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545512.jpg, price=77,930원99,900원 21%할인, title=해외쇼핑/Storm Creek Apparel Mens Drop Needle Micr..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545413.jpg, price=52,340원67,100원 21%할인, title=해외쇼핑/Huntworth Mens Lifestyle 2-Tone Fleece Fu..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545413.jpg, price=52,340원67,100원 21%할인, title=해외쇼핑/Huntworth Mens Lifestyle 2-Tone Fleece Fu..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)
+ERROR ({main} GmarketDBStorage.java[insert]:79) [2016-06-17 16:20:49,526] - java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545410.jpg, price=142,670원182,900원 21%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Tall Ballistic Iii Fleece J..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+java.lang.Exception: NOT FOUND text from {thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/545/794545410.jpg, price=142,670원182,900원 21%할인, title=[컬럼비아] 해외쇼핑/Columbia Mens Tall Ballistic Iii Fleece J..., catogory1=스포츠의류/운동화, catogory2=남성 자켓/점퍼}
+	at crawl.GmarketDBStorage.parse2Map(GmarketDBStorage.java:105)
+	at crawl.GmarketDBStorage.insert(GmarketDBStorage.java:73)
+	at crawl.GmarketDBStorage.main(GmarketDBStorage.java:35)

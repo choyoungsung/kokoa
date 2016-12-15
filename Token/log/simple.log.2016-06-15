@@ -1,0 +1,1577 @@
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000079.aspx
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731580310
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807483555
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807483555
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000103.aspx
+midList
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669, category=무지 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669, category=프린트 패턴티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669, category=스트라이프 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669, category=롱/루즈핏 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026664&ecp_gdlc=100000103&ecp_gdmc=200002669, category=카라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026665&ecp_gdlc=100000103&ecp_gdmc=200002669, category=맨투맨/후드티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026666&ecp_gdlc=100000103&ecp_gdmc=200002669, category=민소매/나시 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026667&ecp_gdlc=100000103&ecp_gdmc=200002669, category=터틀텍/폴라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026668&ecp_gdlc=100000103&ecp_gdmc=200002670, category=쉬폰/시스루 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026669&ecp_gdlc=100000103&ecp_gdmc=200002670, category=레이스/프릴 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026670&ecp_gdlc=100000103&ecp_gdmc=200002670, category=프린트 셔츠/블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026671&ecp_gdlc=100000103&ecp_gdmc=200002670, category=무지 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026672&ecp_gdlc=100000103&ecp_gdmc=200002670, category=체크 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026673&ecp_gdlc=100000103&ecp_gdmc=200002670, category=루즈핏/롱 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026674&ecp_gdlc=100000103&ecp_gdmc=200002670, category=청/데님 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026675&ecp_gdlc=100000103&ecp_gdmc=200002671, category=캐주얼원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026676&ecp_gdlc=100000103&ecp_gdmc=200002671, category=럭셔리/정장원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026677&ecp_gdlc=100000103&ecp_gdmc=200002671, category=쉬폰/레이스원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026678&ecp_gdlc=100000103&ecp_gdmc=200002671, category=니트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026679&ecp_gdlc=100000103&ecp_gdmc=200002671, category=롱원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026680&ecp_gdlc=100000103&ecp_gdmc=200002671, category=점프수트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026681&ecp_gdlc=100000103&ecp_gdmc=200002671, category=플라워/프린트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026682&ecp_gdlc=100000103&ecp_gdmc=200002671, category=탑/민소매원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026651&ecp_gdlc=100000103&ecp_gdmc=200002667, category=라운드넥 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026652&ecp_gdlc=100000103&ecp_gdmc=200002667, category=패턴 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026653&ecp_gdlc=100000103&ecp_gdmc=200002667, category=롱/원피스 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026654&ecp_gdlc=100000103&ecp_gdmc=200002667, category=터틀넥/폴라니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026655&ecp_gdlc=100000103&ecp_gdmc=200002668, category=루즈핏 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026656&ecp_gdlc=100000103&ecp_gdmc=200002668, category=라운드넥 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026658&ecp_gdlc=100000103&ecp_gdmc=200002668, category=롱가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026659&ecp_gdlc=100000103&ecp_gdmc=200002668, category=니트코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026648&ecp_gdlc=100000103&ecp_gdmc=200002666, category=니트 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026649&ecp_gdlc=100000103&ecp_gdmc=200002666, category=야상/데님 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026650&ecp_gdlc=100000103&ecp_gdmc=200002666, category=패딩 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026635&ecp_gdlc=100000103&ecp_gdmc=200002663, category=테일러드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026636&ecp_gdlc=100000103&ecp_gdmc=200002663, category=노카라자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026637&ecp_gdlc=100000103&ecp_gdmc=200002663, category=캐주얼자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026638&ecp_gdlc=100000103&ecp_gdmc=200002663, category=트위드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026639&ecp_gdlc=100000103&ecp_gdmc=200002663, category=린넨/마자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026640&ecp_gdlc=100000103&ecp_gdmc=200002663, category=청자켓/데님점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026631&ecp_gdlc=100000103&ecp_gdmc=200002662, category=바람막이 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026632&ecp_gdlc=100000103&ecp_gdmc=200002662, category=집업/야구/항공점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026633&ecp_gdlc=100000103&ecp_gdmc=200002662, category=야상/사파리 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026634&ecp_gdlc=100000103&ecp_gdmc=200002662, category=패딩/다운 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026641&ecp_gdlc=100000103&ecp_gdmc=200002664, category=트렌치 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026642&ecp_gdlc=100000103&ecp_gdmc=200002664, category=모직코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026643&ecp_gdlc=100000103&ecp_gdmc=200002664, category=하프코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026644&ecp_gdlc=100000103&ecp_gdmc=200002664, category=롱코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026645&ecp_gdlc=100000103&ecp_gdmc=200002665, category=무스탕/가죽자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026646&ecp_gdlc=100000103&ecp_gdmc=200002665, category=모피/퍼 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026647&ecp_gdlc=100000103&ecp_gdmc=200002665, category=퍼 베스트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026684&ecp_gdlc=100000103&ecp_gdmc=200002673, category=면바지/슬렉스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026685&ecp_gdlc=100000103&ecp_gdmc=200002673, category=스키니/레깅스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026686&ecp_gdlc=100000103&ecp_gdmc=200002673, category=반바지/치마바지}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026687&ecp_gdlc=100000103&ecp_gdmc=200002673, category=배기팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026688&ecp_gdlc=100000103&ecp_gdmc=200002673, category=정장팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026689&ecp_gdlc=100000103&ecp_gdmc=200002674, category=H라인 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026690&ecp_gdlc=100000103&ecp_gdmc=200002674, category=A라인/플레어스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026691&ecp_gdlc=100000103&ecp_gdmc=200002674, category=미니스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026692&ecp_gdlc=100000103&ecp_gdmc=200002674, category=롱스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026693&ecp_gdlc=100000103&ecp_gdmc=200002674, category=쉬폰/플리츠 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026694&ecp_gdlc=100000103&ecp_gdmc=200002674, category=모직/니트 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026695&ecp_gdlc=100000103&ecp_gdmc=200002674, category=정장 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026683&ecp_gdlc=100000103&ecp_gdmc=200002672, category=청바지/데님팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026700&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 세트/상의}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026705&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300025748&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비키니/수영복}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026709&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비치웨어}
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669
+java.lang.StringIndexOutOfBoundsException: String index out of range: -28
+java.lang.StringIndexOutOfBoundsException: String index out of range: -28
+	at java.lang.String.substring(Unknown Source)
+	at crawl.CrawlGmarket$ItemDetail.getgoodsCodeFromThumbUr(CrawlGmarket.java:104)
+	at crawl.CrawlGmarket$ItemDetail.fillItemDetailInfo(CrawlGmarket.java:87)
+	at crawl.CrawlGmarket.doAll(CrawlGmarket.java:40)
+	at crawl.CrawlGmarket.main(CrawlGmarket.java:24)
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669
+java.lang.StringIndexOutOfBoundsException: String index out of range: -40
+java.lang.StringIndexOutOfBoundsException: String index out of range: -40
+	at java.lang.String.substring(Unknown Source)
+	at crawl.CrawlGmarket$ItemDetail.getgoodsCodeFromThumbUr(CrawlGmarket.java:104)
+	at crawl.CrawlGmarket$ItemDetail.fillItemDetailInfo(CrawlGmarket.java:87)
+	at crawl.CrawlGmarket.doAll(CrawlGmarket.java:40)
+	at crawl.CrawlGmarket.main(CrawlGmarket.java:24)
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669
+java.lang.StringIndexOutOfBoundsException: String index out of range: -40
+java.lang.StringIndexOutOfBoundsException: String index out of range: -40
+	at java.lang.String.substring(Unknown Source)
+	at crawl.CrawlGmarket$ItemDetail.getgoodsCodeFromThumbUr(CrawlGmarket.java:104)
+	at crawl.CrawlGmarket$ItemDetail.fillItemDetailInfo(CrawlGmarket.java:87)
+	at crawl.CrawlGmarket.doAll(CrawlGmarket.java:40)
+	at crawl.CrawlGmarket.main(CrawlGmarket.java:24)
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669
+java.lang.StringIndexOutOfBoundsException: String index out of range: -28
+java.lang.StringIndexOutOfBoundsException: String index out of range: -28
+	at java.lang.String.substring(Unknown Source)
+	at crawl.CrawlGmarket$ItemDetail.getgoodsCodeFromThumbUr(CrawlGmarket.java:104)
+	at crawl.CrawlGmarket$ItemDetail.fillItemDetailInfo(CrawlGmarket.java:87)
+	at crawl.CrawlGmarket.doAll(CrawlGmarket.java:40)
+	at crawl.CrawlGmarket.main(CrawlGmarket.java:24)
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000103.aspx
+midList
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669, category=무지 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669, category=프린트 패턴티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669, category=스트라이프 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669, category=롱/루즈핏 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026664&ecp_gdlc=100000103&ecp_gdmc=200002669, category=카라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026665&ecp_gdlc=100000103&ecp_gdmc=200002669, category=맨투맨/후드티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026666&ecp_gdlc=100000103&ecp_gdmc=200002669, category=민소매/나시 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026667&ecp_gdlc=100000103&ecp_gdmc=200002669, category=터틀텍/폴라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026668&ecp_gdlc=100000103&ecp_gdmc=200002670, category=쉬폰/시스루 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026669&ecp_gdlc=100000103&ecp_gdmc=200002670, category=레이스/프릴 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026670&ecp_gdlc=100000103&ecp_gdmc=200002670, category=프린트 셔츠/블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026671&ecp_gdlc=100000103&ecp_gdmc=200002670, category=무지 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026672&ecp_gdlc=100000103&ecp_gdmc=200002670, category=체크 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026673&ecp_gdlc=100000103&ecp_gdmc=200002670, category=루즈핏/롱 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026674&ecp_gdlc=100000103&ecp_gdmc=200002670, category=청/데님 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026675&ecp_gdlc=100000103&ecp_gdmc=200002671, category=캐주얼원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026676&ecp_gdlc=100000103&ecp_gdmc=200002671, category=럭셔리/정장원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026677&ecp_gdlc=100000103&ecp_gdmc=200002671, category=쉬폰/레이스원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026678&ecp_gdlc=100000103&ecp_gdmc=200002671, category=니트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026679&ecp_gdlc=100000103&ecp_gdmc=200002671, category=롱원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026680&ecp_gdlc=100000103&ecp_gdmc=200002671, category=점프수트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026681&ecp_gdlc=100000103&ecp_gdmc=200002671, category=플라워/프린트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026682&ecp_gdlc=100000103&ecp_gdmc=200002671, category=탑/민소매원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026651&ecp_gdlc=100000103&ecp_gdmc=200002667, category=라운드넥 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026652&ecp_gdlc=100000103&ecp_gdmc=200002667, category=패턴 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026653&ecp_gdlc=100000103&ecp_gdmc=200002667, category=롱/원피스 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026654&ecp_gdlc=100000103&ecp_gdmc=200002667, category=터틀넥/폴라니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026655&ecp_gdlc=100000103&ecp_gdmc=200002668, category=루즈핏 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026656&ecp_gdlc=100000103&ecp_gdmc=200002668, category=라운드넥 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026658&ecp_gdlc=100000103&ecp_gdmc=200002668, category=롱가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026659&ecp_gdlc=100000103&ecp_gdmc=200002668, category=니트코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026648&ecp_gdlc=100000103&ecp_gdmc=200002666, category=니트 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026649&ecp_gdlc=100000103&ecp_gdmc=200002666, category=야상/데님 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026650&ecp_gdlc=100000103&ecp_gdmc=200002666, category=패딩 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026635&ecp_gdlc=100000103&ecp_gdmc=200002663, category=테일러드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026636&ecp_gdlc=100000103&ecp_gdmc=200002663, category=노카라자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026637&ecp_gdlc=100000103&ecp_gdmc=200002663, category=캐주얼자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026638&ecp_gdlc=100000103&ecp_gdmc=200002663, category=트위드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026639&ecp_gdlc=100000103&ecp_gdmc=200002663, category=린넨/마자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026640&ecp_gdlc=100000103&ecp_gdmc=200002663, category=청자켓/데님점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026631&ecp_gdlc=100000103&ecp_gdmc=200002662, category=바람막이 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026632&ecp_gdlc=100000103&ecp_gdmc=200002662, category=집업/야구/항공점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026633&ecp_gdlc=100000103&ecp_gdmc=200002662, category=야상/사파리 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026634&ecp_gdlc=100000103&ecp_gdmc=200002662, category=패딩/다운 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026641&ecp_gdlc=100000103&ecp_gdmc=200002664, category=트렌치 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026642&ecp_gdlc=100000103&ecp_gdmc=200002664, category=모직코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026643&ecp_gdlc=100000103&ecp_gdmc=200002664, category=하프코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026644&ecp_gdlc=100000103&ecp_gdmc=200002664, category=롱코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026645&ecp_gdlc=100000103&ecp_gdmc=200002665, category=무스탕/가죽자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026646&ecp_gdlc=100000103&ecp_gdmc=200002665, category=모피/퍼 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026647&ecp_gdlc=100000103&ecp_gdmc=200002665, category=퍼 베스트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026684&ecp_gdlc=100000103&ecp_gdmc=200002673, category=면바지/슬렉스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026685&ecp_gdlc=100000103&ecp_gdmc=200002673, category=스키니/레깅스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026686&ecp_gdlc=100000103&ecp_gdmc=200002673, category=반바지/치마바지}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026687&ecp_gdlc=100000103&ecp_gdmc=200002673, category=배기팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026688&ecp_gdlc=100000103&ecp_gdmc=200002673, category=정장팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026689&ecp_gdlc=100000103&ecp_gdmc=200002674, category=H라인 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026690&ecp_gdlc=100000103&ecp_gdmc=200002674, category=A라인/플레어스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026691&ecp_gdlc=100000103&ecp_gdmc=200002674, category=미니스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026692&ecp_gdlc=100000103&ecp_gdmc=200002674, category=롱스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026693&ecp_gdlc=100000103&ecp_gdmc=200002674, category=쉬폰/플리츠 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026694&ecp_gdlc=100000103&ecp_gdmc=200002674, category=모직/니트 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026695&ecp_gdlc=100000103&ecp_gdmc=200002674, category=정장 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026683&ecp_gdlc=100000103&ecp_gdmc=200002672, category=청바지/데님팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026700&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 세트/상의}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026705&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300025748&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비키니/수영복}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026709&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비치웨어}
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000103.aspx
+midList
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669, category=무지 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669, category=프린트 패턴티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669, category=스트라이프 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669, category=롱/루즈핏 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026664&ecp_gdlc=100000103&ecp_gdmc=200002669, category=카라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026665&ecp_gdlc=100000103&ecp_gdmc=200002669, category=맨투맨/후드티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026666&ecp_gdlc=100000103&ecp_gdmc=200002669, category=민소매/나시 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026667&ecp_gdlc=100000103&ecp_gdmc=200002669, category=터틀텍/폴라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026668&ecp_gdlc=100000103&ecp_gdmc=200002670, category=쉬폰/시스루 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026669&ecp_gdlc=100000103&ecp_gdmc=200002670, category=레이스/프릴 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026670&ecp_gdlc=100000103&ecp_gdmc=200002670, category=프린트 셔츠/블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026671&ecp_gdlc=100000103&ecp_gdmc=200002670, category=무지 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026672&ecp_gdlc=100000103&ecp_gdmc=200002670, category=체크 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026673&ecp_gdlc=100000103&ecp_gdmc=200002670, category=루즈핏/롱 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026674&ecp_gdlc=100000103&ecp_gdmc=200002670, category=청/데님 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026675&ecp_gdlc=100000103&ecp_gdmc=200002671, category=캐주얼원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026676&ecp_gdlc=100000103&ecp_gdmc=200002671, category=럭셔리/정장원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026677&ecp_gdlc=100000103&ecp_gdmc=200002671, category=쉬폰/레이스원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026678&ecp_gdlc=100000103&ecp_gdmc=200002671, category=니트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026679&ecp_gdlc=100000103&ecp_gdmc=200002671, category=롱원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026680&ecp_gdlc=100000103&ecp_gdmc=200002671, category=점프수트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026681&ecp_gdlc=100000103&ecp_gdmc=200002671, category=플라워/프린트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026682&ecp_gdlc=100000103&ecp_gdmc=200002671, category=탑/민소매원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026651&ecp_gdlc=100000103&ecp_gdmc=200002667, category=라운드넥 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026652&ecp_gdlc=100000103&ecp_gdmc=200002667, category=패턴 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026653&ecp_gdlc=100000103&ecp_gdmc=200002667, category=롱/원피스 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026654&ecp_gdlc=100000103&ecp_gdmc=200002667, category=터틀넥/폴라니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026655&ecp_gdlc=100000103&ecp_gdmc=200002668, category=루즈핏 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026656&ecp_gdlc=100000103&ecp_gdmc=200002668, category=라운드넥 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026658&ecp_gdlc=100000103&ecp_gdmc=200002668, category=롱가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026659&ecp_gdlc=100000103&ecp_gdmc=200002668, category=니트코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026648&ecp_gdlc=100000103&ecp_gdmc=200002666, category=니트 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026649&ecp_gdlc=100000103&ecp_gdmc=200002666, category=야상/데님 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026650&ecp_gdlc=100000103&ecp_gdmc=200002666, category=패딩 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026635&ecp_gdlc=100000103&ecp_gdmc=200002663, category=테일러드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026636&ecp_gdlc=100000103&ecp_gdmc=200002663, category=노카라자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026637&ecp_gdlc=100000103&ecp_gdmc=200002663, category=캐주얼자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026638&ecp_gdlc=100000103&ecp_gdmc=200002663, category=트위드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026639&ecp_gdlc=100000103&ecp_gdmc=200002663, category=린넨/마자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026640&ecp_gdlc=100000103&ecp_gdmc=200002663, category=청자켓/데님점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026631&ecp_gdlc=100000103&ecp_gdmc=200002662, category=바람막이 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026632&ecp_gdlc=100000103&ecp_gdmc=200002662, category=집업/야구/항공점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026633&ecp_gdlc=100000103&ecp_gdmc=200002662, category=야상/사파리 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026634&ecp_gdlc=100000103&ecp_gdmc=200002662, category=패딩/다운 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026641&ecp_gdlc=100000103&ecp_gdmc=200002664, category=트렌치 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026642&ecp_gdlc=100000103&ecp_gdmc=200002664, category=모직코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026643&ecp_gdlc=100000103&ecp_gdmc=200002664, category=하프코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026644&ecp_gdlc=100000103&ecp_gdmc=200002664, category=롱코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026645&ecp_gdlc=100000103&ecp_gdmc=200002665, category=무스탕/가죽자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026646&ecp_gdlc=100000103&ecp_gdmc=200002665, category=모피/퍼 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026647&ecp_gdlc=100000103&ecp_gdmc=200002665, category=퍼 베스트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026684&ecp_gdlc=100000103&ecp_gdmc=200002673, category=면바지/슬렉스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026685&ecp_gdlc=100000103&ecp_gdmc=200002673, category=스키니/레깅스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026686&ecp_gdlc=100000103&ecp_gdmc=200002673, category=반바지/치마바지}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026687&ecp_gdlc=100000103&ecp_gdmc=200002673, category=배기팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026688&ecp_gdlc=100000103&ecp_gdmc=200002673, category=정장팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026689&ecp_gdlc=100000103&ecp_gdmc=200002674, category=H라인 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026690&ecp_gdlc=100000103&ecp_gdmc=200002674, category=A라인/플레어스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026691&ecp_gdlc=100000103&ecp_gdmc=200002674, category=미니스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026692&ecp_gdlc=100000103&ecp_gdmc=200002674, category=롱스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026693&ecp_gdlc=100000103&ecp_gdmc=200002674, category=쉬폰/플리츠 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026694&ecp_gdlc=100000103&ecp_gdmc=200002674, category=모직/니트 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026695&ecp_gdlc=100000103&ecp_gdmc=200002674, category=정장 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026683&ecp_gdlc=100000103&ecp_gdmc=200002672, category=청바지/데님팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026700&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 세트/상의}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026705&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300025748&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비키니/수영복}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026709&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비치웨어}
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=null
+java.lang.NullPointerException
+java.lang.NullPointerException
+	at crawl.GrepTextArea.grepAsList(GrepTextArea.java:55)
+	at crawl.BasicCrawlTool.findColumnAndAdd(BasicCrawlTool.java:28)
+	at crawl.CrawlGmarket$ItemDetail.crawlLinkUrl(CrawlGmarket.java:117)
+	at crawl.CrawlGmarket$ItemDetail.fillItemDetailInfo(CrawlGmarket.java:89)
+	at crawl.CrawlGmarket.doAll(CrawlGmarket.java:40)
+	at crawl.CrawlGmarket.main(CrawlGmarket.java:24)
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=808691271
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000103.aspx
+midList
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669, category=무지 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669, category=프린트 패턴티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669, category=스트라이프 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669, category=롱/루즈핏 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026664&ecp_gdlc=100000103&ecp_gdmc=200002669, category=카라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026665&ecp_gdlc=100000103&ecp_gdmc=200002669, category=맨투맨/후드티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026666&ecp_gdlc=100000103&ecp_gdmc=200002669, category=민소매/나시 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026667&ecp_gdlc=100000103&ecp_gdmc=200002669, category=터틀텍/폴라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026668&ecp_gdlc=100000103&ecp_gdmc=200002670, category=쉬폰/시스루 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026669&ecp_gdlc=100000103&ecp_gdmc=200002670, category=레이스/프릴 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026670&ecp_gdlc=100000103&ecp_gdmc=200002670, category=프린트 셔츠/블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026671&ecp_gdlc=100000103&ecp_gdmc=200002670, category=무지 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026672&ecp_gdlc=100000103&ecp_gdmc=200002670, category=체크 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026673&ecp_gdlc=100000103&ecp_gdmc=200002670, category=루즈핏/롱 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026674&ecp_gdlc=100000103&ecp_gdmc=200002670, category=청/데님 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026675&ecp_gdlc=100000103&ecp_gdmc=200002671, category=캐주얼원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026676&ecp_gdlc=100000103&ecp_gdmc=200002671, category=럭셔리/정장원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026677&ecp_gdlc=100000103&ecp_gdmc=200002671, category=쉬폰/레이스원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026678&ecp_gdlc=100000103&ecp_gdmc=200002671, category=니트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026679&ecp_gdlc=100000103&ecp_gdmc=200002671, category=롱원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026680&ecp_gdlc=100000103&ecp_gdmc=200002671, category=점프수트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026681&ecp_gdlc=100000103&ecp_gdmc=200002671, category=플라워/프린트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026682&ecp_gdlc=100000103&ecp_gdmc=200002671, category=탑/민소매원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026651&ecp_gdlc=100000103&ecp_gdmc=200002667, category=라운드넥 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026652&ecp_gdlc=100000103&ecp_gdmc=200002667, category=패턴 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026653&ecp_gdlc=100000103&ecp_gdmc=200002667, category=롱/원피스 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026654&ecp_gdlc=100000103&ecp_gdmc=200002667, category=터틀넥/폴라니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026655&ecp_gdlc=100000103&ecp_gdmc=200002668, category=루즈핏 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026656&ecp_gdlc=100000103&ecp_gdmc=200002668, category=라운드넥 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026658&ecp_gdlc=100000103&ecp_gdmc=200002668, category=롱가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026659&ecp_gdlc=100000103&ecp_gdmc=200002668, category=니트코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026648&ecp_gdlc=100000103&ecp_gdmc=200002666, category=니트 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026649&ecp_gdlc=100000103&ecp_gdmc=200002666, category=야상/데님 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026650&ecp_gdlc=100000103&ecp_gdmc=200002666, category=패딩 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026635&ecp_gdlc=100000103&ecp_gdmc=200002663, category=테일러드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026636&ecp_gdlc=100000103&ecp_gdmc=200002663, category=노카라자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026637&ecp_gdlc=100000103&ecp_gdmc=200002663, category=캐주얼자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026638&ecp_gdlc=100000103&ecp_gdmc=200002663, category=트위드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026639&ecp_gdlc=100000103&ecp_gdmc=200002663, category=린넨/마자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026640&ecp_gdlc=100000103&ecp_gdmc=200002663, category=청자켓/데님점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026631&ecp_gdlc=100000103&ecp_gdmc=200002662, category=바람막이 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026632&ecp_gdlc=100000103&ecp_gdmc=200002662, category=집업/야구/항공점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026633&ecp_gdlc=100000103&ecp_gdmc=200002662, category=야상/사파리 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026634&ecp_gdlc=100000103&ecp_gdmc=200002662, category=패딩/다운 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026641&ecp_gdlc=100000103&ecp_gdmc=200002664, category=트렌치 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026642&ecp_gdlc=100000103&ecp_gdmc=200002664, category=모직코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026643&ecp_gdlc=100000103&ecp_gdmc=200002664, category=하프코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026644&ecp_gdlc=100000103&ecp_gdmc=200002664, category=롱코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026645&ecp_gdlc=100000103&ecp_gdmc=200002665, category=무스탕/가죽자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026646&ecp_gdlc=100000103&ecp_gdmc=200002665, category=모피/퍼 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026647&ecp_gdlc=100000103&ecp_gdmc=200002665, category=퍼 베스트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026684&ecp_gdlc=100000103&ecp_gdmc=200002673, category=면바지/슬렉스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026685&ecp_gdlc=100000103&ecp_gdmc=200002673, category=스키니/레깅스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026686&ecp_gdlc=100000103&ecp_gdmc=200002673, category=반바지/치마바지}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026687&ecp_gdlc=100000103&ecp_gdmc=200002673, category=배기팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026688&ecp_gdlc=100000103&ecp_gdmc=200002673, category=정장팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026689&ecp_gdlc=100000103&ecp_gdmc=200002674, category=H라인 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026690&ecp_gdlc=100000103&ecp_gdmc=200002674, category=A라인/플레어스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026691&ecp_gdlc=100000103&ecp_gdmc=200002674, category=미니스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026692&ecp_gdlc=100000103&ecp_gdmc=200002674, category=롱스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026693&ecp_gdlc=100000103&ecp_gdmc=200002674, category=쉬폰/플리츠 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026694&ecp_gdlc=100000103&ecp_gdmc=200002674, category=모직/니트 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026695&ecp_gdlc=100000103&ecp_gdmc=200002674, category=정장 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026683&ecp_gdlc=100000103&ecp_gdmc=200002672, category=청바지/데님팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026700&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 세트/상의}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026705&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300025748&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비키니/수영복}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026709&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비치웨어}
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=729935549
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786255252
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785952673
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=778609821
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=730140710
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787603697
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=769936159
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=770350603
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781475648
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785572027
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786049508
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787444645
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000103.aspx
+midList
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669, category=무지 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669, category=프린트 패턴티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669, category=스트라이프 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669, category=롱/루즈핏 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026664&ecp_gdlc=100000103&ecp_gdmc=200002669, category=카라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026665&ecp_gdlc=100000103&ecp_gdmc=200002669, category=맨투맨/후드티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026666&ecp_gdlc=100000103&ecp_gdmc=200002669, category=민소매/나시 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026667&ecp_gdlc=100000103&ecp_gdmc=200002669, category=터틀텍/폴라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026668&ecp_gdlc=100000103&ecp_gdmc=200002670, category=쉬폰/시스루 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026669&ecp_gdlc=100000103&ecp_gdmc=200002670, category=레이스/프릴 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026670&ecp_gdlc=100000103&ecp_gdmc=200002670, category=프린트 셔츠/블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026671&ecp_gdlc=100000103&ecp_gdmc=200002670, category=무지 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026672&ecp_gdlc=100000103&ecp_gdmc=200002670, category=체크 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026673&ecp_gdlc=100000103&ecp_gdmc=200002670, category=루즈핏/롱 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026674&ecp_gdlc=100000103&ecp_gdmc=200002670, category=청/데님 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026675&ecp_gdlc=100000103&ecp_gdmc=200002671, category=캐주얼원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026676&ecp_gdlc=100000103&ecp_gdmc=200002671, category=럭셔리/정장원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026677&ecp_gdlc=100000103&ecp_gdmc=200002671, category=쉬폰/레이스원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026678&ecp_gdlc=100000103&ecp_gdmc=200002671, category=니트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026679&ecp_gdlc=100000103&ecp_gdmc=200002671, category=롱원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026680&ecp_gdlc=100000103&ecp_gdmc=200002671, category=점프수트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026681&ecp_gdlc=100000103&ecp_gdmc=200002671, category=플라워/프린트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026682&ecp_gdlc=100000103&ecp_gdmc=200002671, category=탑/민소매원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026651&ecp_gdlc=100000103&ecp_gdmc=200002667, category=라운드넥 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026652&ecp_gdlc=100000103&ecp_gdmc=200002667, category=패턴 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026653&ecp_gdlc=100000103&ecp_gdmc=200002667, category=롱/원피스 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026654&ecp_gdlc=100000103&ecp_gdmc=200002667, category=터틀넥/폴라니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026655&ecp_gdlc=100000103&ecp_gdmc=200002668, category=루즈핏 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026656&ecp_gdlc=100000103&ecp_gdmc=200002668, category=라운드넥 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026658&ecp_gdlc=100000103&ecp_gdmc=200002668, category=롱가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026659&ecp_gdlc=100000103&ecp_gdmc=200002668, category=니트코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026648&ecp_gdlc=100000103&ecp_gdmc=200002666, category=니트 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026649&ecp_gdlc=100000103&ecp_gdmc=200002666, category=야상/데님 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026650&ecp_gdlc=100000103&ecp_gdmc=200002666, category=패딩 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026635&ecp_gdlc=100000103&ecp_gdmc=200002663, category=테일러드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026636&ecp_gdlc=100000103&ecp_gdmc=200002663, category=노카라자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026637&ecp_gdlc=100000103&ecp_gdmc=200002663, category=캐주얼자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026638&ecp_gdlc=100000103&ecp_gdmc=200002663, category=트위드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026639&ecp_gdlc=100000103&ecp_gdmc=200002663, category=린넨/마자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026640&ecp_gdlc=100000103&ecp_gdmc=200002663, category=청자켓/데님점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026631&ecp_gdlc=100000103&ecp_gdmc=200002662, category=바람막이 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026632&ecp_gdlc=100000103&ecp_gdmc=200002662, category=집업/야구/항공점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026633&ecp_gdlc=100000103&ecp_gdmc=200002662, category=야상/사파리 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026634&ecp_gdlc=100000103&ecp_gdmc=200002662, category=패딩/다운 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026641&ecp_gdlc=100000103&ecp_gdmc=200002664, category=트렌치 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026642&ecp_gdlc=100000103&ecp_gdmc=200002664, category=모직코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026643&ecp_gdlc=100000103&ecp_gdmc=200002664, category=하프코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026644&ecp_gdlc=100000103&ecp_gdmc=200002664, category=롱코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026645&ecp_gdlc=100000103&ecp_gdmc=200002665, category=무스탕/가죽자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026646&ecp_gdlc=100000103&ecp_gdmc=200002665, category=모피/퍼 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026647&ecp_gdlc=100000103&ecp_gdmc=200002665, category=퍼 베스트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026684&ecp_gdlc=100000103&ecp_gdmc=200002673, category=면바지/슬렉스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026685&ecp_gdlc=100000103&ecp_gdmc=200002673, category=스키니/레깅스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026686&ecp_gdlc=100000103&ecp_gdmc=200002673, category=반바지/치마바지}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026687&ecp_gdlc=100000103&ecp_gdmc=200002673, category=배기팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026688&ecp_gdlc=100000103&ecp_gdmc=200002673, category=정장팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026689&ecp_gdlc=100000103&ecp_gdmc=200002674, category=H라인 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026690&ecp_gdlc=100000103&ecp_gdmc=200002674, category=A라인/플레어스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026691&ecp_gdlc=100000103&ecp_gdmc=200002674, category=미니스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026692&ecp_gdlc=100000103&ecp_gdmc=200002674, category=롱스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026693&ecp_gdlc=100000103&ecp_gdmc=200002674, category=쉬폰/플리츠 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026694&ecp_gdlc=100000103&ecp_gdmc=200002674, category=모직/니트 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026695&ecp_gdlc=100000103&ecp_gdmc=200002674, category=정장 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026683&ecp_gdlc=100000103&ecp_gdmc=200002672, category=청바지/데님팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026700&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 세트/상의}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026705&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300025748&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비키니/수영복}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026709&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비치웨어}
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=729935549
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786255252
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785952673
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=778609821
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=730140710
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787603697
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=769936159
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=770350603
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781475648
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785572027
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786049508
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787444645
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781243716
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807483555
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=798484120
+java.lang.NullPointerException
+java.lang.NullPointerException
+	at crawl.GrepTextArea.grepAsList(GrepTextArea.java:55)
+	at crawl.BasicCrawlTool.findColumnAndAdd(BasicCrawlTool.java:28)
+	at crawl.CrawlGmarket$ItemDetail.crawlLinkUrl(CrawlGmarket.java:124)
+	at crawl.CrawlGmarket$ItemDetail.fillItemDetailInfo(CrawlGmarket.java:96)
+	at crawl.CrawlGmarket.doAll(CrawlGmarket.java:40)
+	at crawl.CrawlGmarket.main(CrawlGmarket.java:24)
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=808691271
+java.lang.NullPointerException
+java.lang.NullPointerException
+	at crawl.GrepTextArea.grepAsList(GrepTextArea.java:55)
+	at crawl.BasicCrawlTool.findColumnAndAdd(BasicCrawlTool.java:28)
+	at crawl.CrawlGmarket$ItemDetail.crawlLinkUrl(CrawlGmarket.java:124)
+	at crawl.CrawlGmarket$ItemDetail.fillItemDetailInfo(CrawlGmarket.java:96)
+	at crawl.CrawlGmarket.doAll(CrawlGmarket.java:40)
+	at crawl.CrawlGmarket.main(CrawlGmarket.java:24)
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000103.aspx
+midList
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669, category=무지 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669, category=프린트 패턴티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669, category=스트라이프 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669, category=롱/루즈핏 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026664&ecp_gdlc=100000103&ecp_gdmc=200002669, category=카라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026665&ecp_gdlc=100000103&ecp_gdmc=200002669, category=맨투맨/후드티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026666&ecp_gdlc=100000103&ecp_gdmc=200002669, category=민소매/나시 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026667&ecp_gdlc=100000103&ecp_gdmc=200002669, category=터틀텍/폴라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026668&ecp_gdlc=100000103&ecp_gdmc=200002670, category=쉬폰/시스루 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026669&ecp_gdlc=100000103&ecp_gdmc=200002670, category=레이스/프릴 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026670&ecp_gdlc=100000103&ecp_gdmc=200002670, category=프린트 셔츠/블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026671&ecp_gdlc=100000103&ecp_gdmc=200002670, category=무지 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026672&ecp_gdlc=100000103&ecp_gdmc=200002670, category=체크 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026673&ecp_gdlc=100000103&ecp_gdmc=200002670, category=루즈핏/롱 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026674&ecp_gdlc=100000103&ecp_gdmc=200002670, category=청/데님 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026675&ecp_gdlc=100000103&ecp_gdmc=200002671, category=캐주얼원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026676&ecp_gdlc=100000103&ecp_gdmc=200002671, category=럭셔리/정장원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026677&ecp_gdlc=100000103&ecp_gdmc=200002671, category=쉬폰/레이스원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026678&ecp_gdlc=100000103&ecp_gdmc=200002671, category=니트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026679&ecp_gdlc=100000103&ecp_gdmc=200002671, category=롱원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026680&ecp_gdlc=100000103&ecp_gdmc=200002671, category=점프수트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026681&ecp_gdlc=100000103&ecp_gdmc=200002671, category=플라워/프린트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026682&ecp_gdlc=100000103&ecp_gdmc=200002671, category=탑/민소매원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026651&ecp_gdlc=100000103&ecp_gdmc=200002667, category=라운드넥 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026652&ecp_gdlc=100000103&ecp_gdmc=200002667, category=패턴 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026653&ecp_gdlc=100000103&ecp_gdmc=200002667, category=롱/원피스 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026654&ecp_gdlc=100000103&ecp_gdmc=200002667, category=터틀넥/폴라니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026655&ecp_gdlc=100000103&ecp_gdmc=200002668, category=루즈핏 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026656&ecp_gdlc=100000103&ecp_gdmc=200002668, category=라운드넥 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026658&ecp_gdlc=100000103&ecp_gdmc=200002668, category=롱가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026659&ecp_gdlc=100000103&ecp_gdmc=200002668, category=니트코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026648&ecp_gdlc=100000103&ecp_gdmc=200002666, category=니트 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026649&ecp_gdlc=100000103&ecp_gdmc=200002666, category=야상/데님 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026650&ecp_gdlc=100000103&ecp_gdmc=200002666, category=패딩 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026635&ecp_gdlc=100000103&ecp_gdmc=200002663, category=테일러드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026636&ecp_gdlc=100000103&ecp_gdmc=200002663, category=노카라자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026637&ecp_gdlc=100000103&ecp_gdmc=200002663, category=캐주얼자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026638&ecp_gdlc=100000103&ecp_gdmc=200002663, category=트위드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026639&ecp_gdlc=100000103&ecp_gdmc=200002663, category=린넨/마자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026640&ecp_gdlc=100000103&ecp_gdmc=200002663, category=청자켓/데님점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026631&ecp_gdlc=100000103&ecp_gdmc=200002662, category=바람막이 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026632&ecp_gdlc=100000103&ecp_gdmc=200002662, category=집업/야구/항공점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026633&ecp_gdlc=100000103&ecp_gdmc=200002662, category=야상/사파리 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026634&ecp_gdlc=100000103&ecp_gdmc=200002662, category=패딩/다운 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026641&ecp_gdlc=100000103&ecp_gdmc=200002664, category=트렌치 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026642&ecp_gdlc=100000103&ecp_gdmc=200002664, category=모직코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026643&ecp_gdlc=100000103&ecp_gdmc=200002664, category=하프코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026644&ecp_gdlc=100000103&ecp_gdmc=200002664, category=롱코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026645&ecp_gdlc=100000103&ecp_gdmc=200002665, category=무스탕/가죽자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026646&ecp_gdlc=100000103&ecp_gdmc=200002665, category=모피/퍼 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026647&ecp_gdlc=100000103&ecp_gdmc=200002665, category=퍼 베스트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026684&ecp_gdlc=100000103&ecp_gdmc=200002673, category=면바지/슬렉스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026685&ecp_gdlc=100000103&ecp_gdmc=200002673, category=스키니/레깅스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026686&ecp_gdlc=100000103&ecp_gdmc=200002673, category=반바지/치마바지}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026687&ecp_gdlc=100000103&ecp_gdmc=200002673, category=배기팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026688&ecp_gdlc=100000103&ecp_gdmc=200002673, category=정장팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026689&ecp_gdlc=100000103&ecp_gdmc=200002674, category=H라인 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026690&ecp_gdlc=100000103&ecp_gdmc=200002674, category=A라인/플레어스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026691&ecp_gdlc=100000103&ecp_gdmc=200002674, category=미니스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026692&ecp_gdlc=100000103&ecp_gdmc=200002674, category=롱스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026693&ecp_gdlc=100000103&ecp_gdmc=200002674, category=쉬폰/플리츠 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026694&ecp_gdlc=100000103&ecp_gdmc=200002674, category=모직/니트 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026695&ecp_gdlc=100000103&ecp_gdmc=200002674, category=정장 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026683&ecp_gdlc=100000103&ecp_gdmc=200002672, category=청바지/데님팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026700&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 세트/상의}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026705&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300025748&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비키니/수영복}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026709&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비치웨어}
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=729935549
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786255252
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785952673
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=778609821
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=730140710
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787603697
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=769936159
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=770350603
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781475648
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785572027
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786049508
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787444645
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781243716
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807483555
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=798484120
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=803619377
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=810648560
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=810572336
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=764936206
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=803886560
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=734538522
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=810949897
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=806334251
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=809197696
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=802708998
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=803886927
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=799731572
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=782358186
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=805165888
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=814273612
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=802621045
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807172873
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=806358333
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=764936199
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=804292527
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=814774303
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=809981075
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807947261
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=761118490
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=805264521
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807455761
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731749155
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=779132610
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=804962175
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=813512119
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=811814030
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=780713065
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=804626591
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=801672742
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=805060912
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=795857172
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=810073696
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=805189653
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=800365092
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=794062223
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807534651
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=802120966
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=793971953
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=790366506
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=779282787
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=812906340
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=809371334
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=806333004
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=804797852
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=800619859
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=799647671
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=798484075
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=797428161
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=792565932
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=788179236
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781481260
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=815048337
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=812980555
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=812021196
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=811403617
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807899652
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807899058
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=806839496
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=804094264
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=803827617
+goodsList
+{catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://image.gmarket.co.kr/search/2013/130215/icon/ic_related_results.gif, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/729/935/729935549.jpg, price=9,010원9,900원 8%할인, text=[파파야] 민소매 기본 나시(CNFRTP039B) (영등포점A), title=[파파야] 민소매 기본 나시(CNFRTP039B) (영등포점A), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/786/255/786255252.jpg, price=53,460원59,400원 10%할인, text=[써스데이아일랜드]  T162MST104M  그래픽 기본 맨투맨 (강남점), title=[써스데이아일랜드]  T162MST104M  그래픽 기본 맨투맨 (강남점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/785/952/785952673.jpg, price=24,490원29,500원 16%할인, text=[홀하우스] 남여공용 미키 슬림 맨투맨 티셔츠(HF2TSU872)  (강남점), title=[홀하우스] 남여공용 미키 슬림 맨투맨 티셔츠(HF2TSU872)  (강남..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/778/609/778609821.jpg, price=20,340원24,500원 16%할인, text=[홀하우스] 남여공용 미키 라글란 맨투맨 티셔츠(HF1TSU802)  (강남점), title=[홀하우스] 남여공용 미키 라글란 맨투맨 티셔츠(HF1TSU802)  (강..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/730/140/730140710.jpg, price=79,210원89,000원 11%할인, text=[시에로] 루나워싱 58 티셔츠(SB3TSF014) (영등포점A), title=[시에로] 루나워싱 58 티셔츠(SB3TSF014) (영등포점A), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/787/603/787603697.jpg, price=53,100원59,000원 10%할인, text=[써스데이아일랜드] 여성 그래픽 반팔 티셔츠 (T164MTS233W) (강남점), title=[써스데이아일랜드] 여성 그래픽 반팔 티셔츠 (T164MTS233W) (강남점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/769/936/769936159.jpg, price=57,270원69,000원 17%할인, text=[에고이스트] 페미닌레이스맨투맨TS(EG1OT206) (강남점), title=[에고이스트] 페미닌레이스맨투맨TS(EG1OT206) (강남점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/770/350/770350603.jpg, price=16,150원19,000원 15%할인, text=탑SMIBD9828(BK BE WH) (인천점), title=탑SMIBD9828(BK BE WH) (인천점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/781/475/781475648.jpg, price=57,270원69,000원 17%할인, text=[베네통] 슬림핏라운드칠부티셔츠(BATS73631) (강남점), title=[베네통] 슬림핏라운드칠부티셔츠(BATS73631) (강남점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/785/572/785572027.jpg, price=33,150원39,000원 15%할인, text=[온앤온] 루즈핏 티셔츠(NW6MZ003)S (강남점), title=[온앤온] 루즈핏 티셔츠(NW6MZ003)S (강남점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/786/049/786049508.jpg, price=69,000원, text=[지컷] 광택패치맨투맨티셔츠 7216140011 (인천점), title=[지컷] 광택패치맨투맨티셔츠 7216140011 (인천점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/787/444/787444645.jpg, price=34,710원39,000원 11%할인, text=[신세계] (파프리카) 앞트임사선롱티셔츠 N61TS323 (의정부점), title=[신세계] (파프리카) 앞트임사선롱티셔츠 N61TS323 (의정부점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/781/243/781243716.jpg, price=6,320원7,900원 20%할인, text=시크폭스  심플슬라브-t/티셔츠/ 시크폭스, title=시크폭스  심플슬라브-t/티셔츠/ 시크폭스, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/807/483/807483555.jpg, price=58,900원, text=슈맹블랑 땡큐패키지  퓨어코튼 티컬렉션 5SET, title=슈맹블랑 땡큐패키지  퓨어코튼 티컬렉션 5SET, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/798/484/798484120.jpg, price=21,330원23,700원 10%할인, title=[톰보이] 투톤배색 박스 티셔츠(9195222520)/ 톰보이, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/803/619/803619377.jpg, price=68,900원, text=[송지오] 송지오 2016 슈퍼스타 프리모 린넨티셔츠 6종 여성, title=[송지오] 송지오 2016 슈퍼스타 프리모 린넨티셔츠 6종 여성, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/810/648/810648560.jpg, price=92,650원109,000원 15%할인, text=[매긴] 레이스 부띠에 부착 스트라이프 티셔츠(MG2CH503) (본점), title=[매긴] 레이스 부띠에 부착 스트라이프 티셔츠(MG2CH503) (본..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/810/572/810572336.jpg, price=79,900원, text=나탈리쉐즈 가스파랭 썸머 블라우스 II 5SET, title=나탈리쉐즈 가스파랭 썸머 블라우스 II 5SET, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/764/936/764936206.jpg, price=50,150원59,000원 15%할인, title=[랩] 윙키 스마일리 컬러블럭 비대칭 티셔츠(AG2GTY61)/ 랩, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/803/886/803886560.jpg, price=143,500원, text=[캐리스노트] 캐리스노트  단정한 원피스 CN6MOP860, title=[캐리스노트] 캐리스노트  단정한 원피스 CN6MOP860, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/734/538/734538522.jpg, price=45,800원, text=[에딸라쥬] 에딸라쥬  코데즈페미닌셔츠 E51BBL142, title=[에딸라쥬] 에딸라쥬  코데즈페미닌셔츠 E51BBL142, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/810/949/810949897.jpg, price=41,000원, text=[캐리스노트] 캐리스노트 단정한 원피스C4B05520, title=[캐리스노트] 캐리스노트 단정한 원피스C4B05520, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/806/334/806334251.jpg, price=44,100원, text=[후라밍고] 후라밍고반팔앞자수티셔츠FMZ62049, title=[후라밍고] 후라밍고반팔앞자수티셔츠FMZ62049, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/809/197/809197696.jpg, price=27,000원, text=[토모톰스] 토모톰스 시스루 트임 티셔츠 TOMGTOP2534, title=[토모톰스] 토모톰스 시스루 트임 티셔츠 TOMGTOP2534, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/802/708/802708998.jpg, price=18,620원19,800원 5%할인, text=TV방송상품/르오트  시즌베스트 6종택1/ 르오트, title=TV방송상품/르오트  시즌베스트 6종택1/ 르오트, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/803/886/803886927.jpg, price=51,660원, text=[캐리스노트] 캐리스노트 A라인 니트 티셔츠CN6MSW 840, title=[캐리스노트] 캐리스노트 A라인 니트 티셔츠CN6MSW 840, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/799/731/799731572.jpg, price=64,780원, text=[베네통] 베네통 마소재 민소매 라운드 티셔츠BATS63631, title=[베네통] 베네통 마소재 민소매 라운드 티셔츠BATS63631, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/782/358/782358186.jpg, price=39,800원, text=저스트원  데님 뷔스티에, title=저스트원  데님 뷔스티에, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/805/165/805165888.jpg, price=8,100원9,000원 10%할인, title=[꾸즈]  꾸즈  데일리 여름 티셔츠 17종택1/ 꾸즈, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/814/273/814273612.jpg, price=7,900원26,300원 69%할인, text=[올리비아 허슬러] 슈퍼세일찬스 베스트 50종 2개 이상 구매시 무배, title=[올리비아 허슬러] 슈퍼세일찬스 베스트 50종 2개 이상 구매시 무배, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/802/621/802621045.jpg, price=9,700원25,800원 62%할인, text=[블루레이스] G마켓 입점기념 봄/여름 BEST ITEM 특가 50종, title=[블루레이스] G마켓 입점기념 봄/여름 BEST ITEM 특가 50종, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/807/172/807172873.jpg, price=14,280원16,800원 15%할인, text=[올리버스 Closet]  패션플러스  올리비에스클로젯  정품  미키캐릭터라인 티셔츠14종  O1605CO032FP, title=[올리버스 Closet]  패션플러스  올리비에스클로젯  정품  미키캐릭터라인..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/806/358/806358333.jpg, price=14,900원49,600원 69%할인, text=미씨엘라  무료배송/여름신상/티셔츠/플리츠/팬츠, title=미씨엘라  무료배송/여름신상/티셔츠/플리츠/팬츠, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/764/936/764936199.jpg, price=29,160원34,300원 14%할인, title=[랩] 스마일리 소매와펜 스트라이프 티셔츠(AG2GTY62)/ 랩, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/804/292/804292527.jpg, price=13,440원16,800원 20%할인, text=시크폭스  크랩-t/티셔츠/ 시크폭스, title=시크폭스  크랩-t/티셔츠/ 시크폭스, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/814/774/814774303.jpg, price=25,670원29,500원 12%할인, text=[톰보이] 박시 롱 민소매 티셔츠 (9105223422) (마산점), title=[톰보이] 박시 롱 민소매 티셔츠 (9105223422) (마산점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/809/981/809981075.jpg, price=47,200원, text=[온앤온]  16 여름  단독인하  소매리본포인트라운드 티셔츠(NW6ME335)(갤러리아), title=[온앤온]  16 여름  단독인하  소매리본포인트라운드 티셔츠(NW..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/807/947/807947261.jpg, price=39,000원, text=[랩]  DISNEY X LAP   캣 자수 스트라이프 티셔츠 (AG2GT560), title=[랩]  DISNEY X LAP   캣 자수 스트라이프 티셔츠 (AG2GT56..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/761/118/761118490.jpg, price=9,000원29,000원 68%할인, text=[망고] 노츠 모달 티셔츠, title=[망고] 노츠 모달 티셔츠, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/805/264/805264521.jpg, price=24,650원29,000원 15%할인, title=[랩] 빈티지 별티셔츠 DN (AG2CT546)/ 랩, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/807/455/807455761.jpg, price=33,150원39,000원 15%할인, text=[플라스틱아일랜드] 앞 단추 스트라이프 타이트 티셔츠(PG2CH505) (인천점), title=[플라스틱아일랜드] 앞 단추 스트라이프 타이트 티셔츠(PG2CH505) (인천점..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/731/749/731749155.jpg, price=16,150원19,000원 15%할인, text=[톰보이] 영문 프린팅 민소매 롱 티셔츠 (9105222999) (강남점), title=[톰보이] 영문 프린팅 민소매 롱 티셔츠 (9105222999) (강남점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/779/132/779132610.jpg, price=49,770원55,300원 10%할인, text=[써스데이아일랜드] 여성 와펜 그래픽 루즈핏 티셔츠(T162MTS136W) (강남점), title=[써스데이아일랜드] 여성 와펜 그래픽 루즈핏 티셔츠(T162MTS136W) (강남점..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/804/962/804962175.jpg, price=9,350원11,400원 17%할인, text=시크폭스  브리안-t/티셔츠/ 시크폭스, title=시크폭스  브리안-t/티셔츠/ 시크폭스, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/813/512/813512119.jpg, price=33,930원39,000원 13%할인, text=[에고이스트] 섹시 BACK 디테일 골드 T/S(EG2ET600) (센텀시티점), title=[에고이스트] 섹시 BACK 디테일 골드 T/S(EG2ET600) (센텀시티점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/811/814/811814030.jpg, price=15,920원, text=[크로커다일레이디]  MD기획  여름 균일가 5종택1 CL6MTS915외(갤러리아), title=[크로커다일레이디]  MD기획  여름 균일가 5종택1 CL6MTS915외(갤러리아), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/780/713/780713065.jpg, price=15,960원19,000원 16%할인, text=[랩]  온라인 단독 상품  DISNEY X LAP  앵그리 미키 핫픽스 티셔츠 (AG2GT366)/ 랩, title=[랩]  온라인 단독 상품  DISNEY X LAP  앵그리 미키 핫픽스..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/804/626/804626591.jpg, price=29,750원35,000원 15%할인, title=[코인코즈] 귀요미 마린룩 반팔 티셔츠(IY5ME259)/ 코인코즈, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/801/672/801672742.jpg, price=23,210원27,300원 14%할인, title=[랩] 무지개프린트 크랍티셔츠 DN (AG2CT578)/ 랩, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/805/060/805060912.jpg, price=18,810원19,800원 5%할인, title=[토모톰스] 단가라 퓨어 티셔츠 (TOMATOP2514)/ 토모톰스, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/795/857/795857172.jpg, price=8,300원10,000원 17%할인, text=[홀하우스]  홀하우스 남여공용 미키마우스 티셔츠 사은품증정  (강남점), title=[홀하우스]  홀하우스 남여공용 미키마우스 티셔츠 사은품증정  (..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/810/073/810073696.jpg, price=16,150원19,000원 15%할인, text=[쥬시쥬디] 유니크 소매 숏티셔츠(JPTS320A) (의정부점), title=[쥬시쥬디] 유니크 소매 숏티셔츠(JPTS320A) (의정부점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/805/189/805189653.jpg, price=29,700원33,000원 10%할인, title=[디데무] 펀칭페인팅포켓티(LW1605912)/ 디데무, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/800/365/800365092.jpg, price=9,900원11,000원 10%할인, title=[플라스틱아일랜드] 로맨틱 블록 프린트 티셔츠 (PGEBY224)/ 플라스틱아일..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/794/062/794062223.jpg, price=52,820원, text=[쥬크] 실리콘덧신증정 16인하  리본 포인트 큐트 티블라우스 Z161XSM010 Z162XSM010(갤러리아), title=[쥬크] 실리콘덧신증정 16인하  리본 포인트 큐트 티블라우스..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/807/534/807534651.jpg, price=33,150원39,000원 15%할인, text=[톰보이] ANTIAGO박시 라운드 티셔츠 (9106222993) (강남점), title=[톰보이] ANTIAGO박시 라운드 티셔츠 (9106222993) (강남점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/802/120/802120966.jpg, price=32,370원39,000원 17%할인, text=[플라스틱아일랜드] 허리 리본 묶음 탑(PG2CT561) (강남점), title=[플라스틱아일랜드] 허리 리본 묶음 탑(PG2CT561) (강남점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/793/971/793971953.jpg, price=91,800원108,000원 15%할인, title=[보브패션] 마리스레이어드티셔츠(71161 40931)/ 보브(의류), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/790/366/790366506.jpg, price=8,450원10,300원 17%할인, text=빅사이즈/제이스타일  J제작  캔디론 슬라브 티셔츠 T0207/ 제이스타일, title=빅사이즈/제이스타일  J제작  캔디론 슬라브 티셔츠 T..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/779/282/779282787.jpg, price=25,230원29,000원 13%할인, text=[지지피엑스] 별찡 시원한 면티셔츠(IGB4TS790F) (마산점), title=[지지피엑스] 별찡 시원한 면티셔츠(IGB4TS790F) (마산점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/812/906/812906340.jpg, price=52,510원59,000원 11%할인, text=[케네스레이디] 진주포인트프릴티셔츠 EWTSGF0800  (마산점), title=[케네스레이디] 진주포인트프릴티셔츠 EWTSGF0800  (마산점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/809/371/809371334.jpg, price=50,150원59,000원 15%할인, text=[매긴] 기타 프린트 맨투맨 MG2CL362 (마산점), title=[매긴] 기타 프린트 맨투맨 MG2CL362 (마산점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/806/333/806333004.jpg, price=50,150원59,000원 15%할인, text=[르샵] 기본슬림라운드티셔츠(LG5TS636) (영등포점A), title=[르샵] 기본슬림라운드티셔츠(LG5TS636) (영등포점A), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/804/797/804797852.jpg, price=65,990원79,500원 16%할인, text=[티렌] 써클리본티셔츠 T162PSM202 (인천점), title=[티렌] 써클리본티셔츠 T162PSM202 (인천점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/800/619/800619859.jpg, price=12,790원14,700원 12%할인, title=[지지피엑스] 프린트 밑단셔링 티셔츠(GFB4TS790F1)/ 지지피엑스, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/799/647/799647671.jpg, price=6,200원, title=[애니사이즈] 베리스 티-6538/ 애니사이즈, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/798/484/798484075.jpg, price=18,630원20,700원 10%할인, title=[톰보이] 클레오 티셔츠(9195222421)/ 톰보이, catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/797/428/797428161.jpg, price=55,200원69,000원 20%할인, text=[지컷] 트임이중네크라인쭈리면티셔츠 7226240003 (본점), title=[지컷] 트임이중네크라인쭈리면티셔츠 7226240003 (본점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/792/565/792565932.jpg, price=88,110원99,000원 11%할인, text=[탱커스] 스팽글입술포인트티셔츠(TOBTS566) (마산점), title=[탱커스] 스팽글입술포인트티셔츠(TOBTS566) (마산점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/788/179/788179236.jpg, price=50,150원59,000원 15%할인, text=[쥬시쥬디] 유니콘프린트 소매트임티(HQTS320B) (의정부점), title=[쥬시쥬디] 유니콘프린트 소매트임티(HQTS320B) (의정부점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/781/481/781481260.jpg, price=51,330원59,000원 13%할인, text=[에고이스트] 페미닌 기계주름 러플 티셔츠 (EG1CL274) (경기점), title=[에고이스트] 페미닌 기계주름 러플 티셔츠 (EG1CL274) (경기점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/815/048/815048337.jpg, price=25,250원29,700원 14%할인, text=[톰보이] 스트라이프 베이스볼 티셔츠(10T4AT634) (경기점), title=[톰보이] 스트라이프 베이스볼 티셔츠(10T4AT634) (경기점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/812/980/812980555.jpg, price=33,150원39,000원 15%할인, text=[플라스틱아일랜드] 꽃 프린트 민소매 탑 (PG2CT581) (의정부점), title=[플라스틱아일랜드] 꽃 프린트 민소매 탑 (PG2CT581) (의정부점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/812/021/812021196.jpg, price=10,630원12,500원 14%할인, text=[홀하우스] 남여공용 하키 프린트 반팔 티셔츠(HF2TSU068)  (마산점), title=[홀하우스] 남여공용 하키 프린트 반팔 티셔츠(HF2TSU068)  (마산..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/811/403/811403617.jpg, price=23,210원27,300원 14%할인, text=[쥬시쥬디] 16 S/S 별모양 자수 티셔츠 (JQTS421C) (광주점), title=[쥬시쥬디] 16 S/S 별모양 자수 티셔츠 (JQTS421C) (광주점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/807/899/807899652.jpg, price=23,490원27,000원 13%할인, text=[앳코너] COLD CAMP 편안한핏감 시크 반팔티 (CNE05E401) (의정부점), title=[앳코너] COLD CAMP 편안한핏감 시크 반팔티 (CNE05E401) (의정..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/807/899/807899058.jpg, price=21,750원25,000원 13%할인, text=[앳코너] COLD CAMP 미니멀 프린트 반팔티 (CNE05E403) (의정부점), title=[앳코너] COLD CAMP 미니멀 프린트 반팔티 (CNE05E403) (의정부..., catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/806/839/806839496.jpg, price=41,650원49,000원 15%할인, text=[르샵] 예쁨예쁨 레이스 라운드반팔티(LG6TS670) (영등포점B), title=[르샵] 예쁨예쁨 레이스 라운드반팔티(LG6TS670) (영등포점B), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/804/094/804094264.jpg, price=30,530원34,300원 10%할인, text=[탑걸] 펄라운드티셔츠(TGB4TS709F) (영등포점B), title=[탑걸] 펄라운드티셔츠(TGB4TS709F) (영등포점B), catogory1=브랜드 여성의류, catogory2=티셔츠}
+{thumb=http://gdimg.gmarket.co.kr/goods_image2/gallery_jpgimg/803/827/803827617.jpg, price=34,710원39,000원 11%할인, text=[케네스레이디] 소매프릴단가라티셔츠 EGTSGE9300  (의정부점), title=[케네스레이디] 소매프릴단가라티셔츠 EGTSGE9300  (의정부점), catogory1=브랜드 여성의류, catogory2=티셔츠}
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000103.aspx
+midList
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669, category=무지 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669, category=프린트 패턴티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669, category=스트라이프 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669, category=롱/루즈핏 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026664&ecp_gdlc=100000103&ecp_gdmc=200002669, category=카라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026665&ecp_gdlc=100000103&ecp_gdmc=200002669, category=맨투맨/후드티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026666&ecp_gdlc=100000103&ecp_gdmc=200002669, category=민소매/나시 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026667&ecp_gdlc=100000103&ecp_gdmc=200002669, category=터틀텍/폴라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026668&ecp_gdlc=100000103&ecp_gdmc=200002670, category=쉬폰/시스루 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026669&ecp_gdlc=100000103&ecp_gdmc=200002670, category=레이스/프릴 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026670&ecp_gdlc=100000103&ecp_gdmc=200002670, category=프린트 셔츠/블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026671&ecp_gdlc=100000103&ecp_gdmc=200002670, category=무지 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026672&ecp_gdlc=100000103&ecp_gdmc=200002670, category=체크 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026673&ecp_gdlc=100000103&ecp_gdmc=200002670, category=루즈핏/롱 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026674&ecp_gdlc=100000103&ecp_gdmc=200002670, category=청/데님 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026675&ecp_gdlc=100000103&ecp_gdmc=200002671, category=캐주얼원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026676&ecp_gdlc=100000103&ecp_gdmc=200002671, category=럭셔리/정장원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026677&ecp_gdlc=100000103&ecp_gdmc=200002671, category=쉬폰/레이스원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026678&ecp_gdlc=100000103&ecp_gdmc=200002671, category=니트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026679&ecp_gdlc=100000103&ecp_gdmc=200002671, category=롱원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026680&ecp_gdlc=100000103&ecp_gdmc=200002671, category=점프수트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026681&ecp_gdlc=100000103&ecp_gdmc=200002671, category=플라워/프린트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026682&ecp_gdlc=100000103&ecp_gdmc=200002671, category=탑/민소매원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026651&ecp_gdlc=100000103&ecp_gdmc=200002667, category=라운드넥 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026652&ecp_gdlc=100000103&ecp_gdmc=200002667, category=패턴 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026653&ecp_gdlc=100000103&ecp_gdmc=200002667, category=롱/원피스 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026654&ecp_gdlc=100000103&ecp_gdmc=200002667, category=터틀넥/폴라니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026655&ecp_gdlc=100000103&ecp_gdmc=200002668, category=루즈핏 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026656&ecp_gdlc=100000103&ecp_gdmc=200002668, category=라운드넥 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026658&ecp_gdlc=100000103&ecp_gdmc=200002668, category=롱가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026659&ecp_gdlc=100000103&ecp_gdmc=200002668, category=니트코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026648&ecp_gdlc=100000103&ecp_gdmc=200002666, category=니트 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026649&ecp_gdlc=100000103&ecp_gdmc=200002666, category=야상/데님 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026650&ecp_gdlc=100000103&ecp_gdmc=200002666, category=패딩 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026635&ecp_gdlc=100000103&ecp_gdmc=200002663, category=테일러드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026636&ecp_gdlc=100000103&ecp_gdmc=200002663, category=노카라자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026637&ecp_gdlc=100000103&ecp_gdmc=200002663, category=캐주얼자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026638&ecp_gdlc=100000103&ecp_gdmc=200002663, category=트위드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026639&ecp_gdlc=100000103&ecp_gdmc=200002663, category=린넨/마자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026640&ecp_gdlc=100000103&ecp_gdmc=200002663, category=청자켓/데님점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026631&ecp_gdlc=100000103&ecp_gdmc=200002662, category=바람막이 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026632&ecp_gdlc=100000103&ecp_gdmc=200002662, category=집업/야구/항공점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026633&ecp_gdlc=100000103&ecp_gdmc=200002662, category=야상/사파리 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026634&ecp_gdlc=100000103&ecp_gdmc=200002662, category=패딩/다운 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026641&ecp_gdlc=100000103&ecp_gdmc=200002664, category=트렌치 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026642&ecp_gdlc=100000103&ecp_gdmc=200002664, category=모직코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026643&ecp_gdlc=100000103&ecp_gdmc=200002664, category=하프코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026644&ecp_gdlc=100000103&ecp_gdmc=200002664, category=롱코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026645&ecp_gdlc=100000103&ecp_gdmc=200002665, category=무스탕/가죽자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026646&ecp_gdlc=100000103&ecp_gdmc=200002665, category=모피/퍼 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026647&ecp_gdlc=100000103&ecp_gdmc=200002665, category=퍼 베스트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026684&ecp_gdlc=100000103&ecp_gdmc=200002673, category=면바지/슬렉스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026685&ecp_gdlc=100000103&ecp_gdmc=200002673, category=스키니/레깅스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026686&ecp_gdlc=100000103&ecp_gdmc=200002673, category=반바지/치마바지}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026687&ecp_gdlc=100000103&ecp_gdmc=200002673, category=배기팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026688&ecp_gdlc=100000103&ecp_gdmc=200002673, category=정장팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026689&ecp_gdlc=100000103&ecp_gdmc=200002674, category=H라인 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026690&ecp_gdlc=100000103&ecp_gdmc=200002674, category=A라인/플레어스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026691&ecp_gdlc=100000103&ecp_gdmc=200002674, category=미니스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026692&ecp_gdlc=100000103&ecp_gdmc=200002674, category=롱스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026693&ecp_gdlc=100000103&ecp_gdmc=200002674, category=쉬폰/플리츠 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026694&ecp_gdlc=100000103&ecp_gdmc=200002674, category=모직/니트 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026695&ecp_gdlc=100000103&ecp_gdmc=200002674, category=정장 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026683&ecp_gdlc=100000103&ecp_gdmc=200002672, category=청바지/데님팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026700&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 세트/상의}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026705&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300025748&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비키니/수영복}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026709&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비치웨어}
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=729935549
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786255252
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785952673
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=778609821
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=730140710
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787603697
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=769936159
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=770350603
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781475648
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785572027
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786049508
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787444645
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781243716
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807483555
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=798484120
+java.lang.NullPointerException
+java.lang.NullPointerException
+	at crawl.GrepTextArea.grepAsList(GrepTextArea.java:55)
+	at crawl.BasicCrawlTool.findColumnAndAdd(BasicCrawlTool.java:31)
+	at crawl.CrawlGmarket$ItemDetail.crawlLinkUrl(CrawlGmarket.java:124)
+	at crawl.CrawlGmarket$ItemDetail.fillItemDetailInfo(CrawlGmarket.java:96)
+	at crawl.CrawlGmarket.doAll(CrawlGmarket.java:40)
+	at crawl.CrawlGmarket.main(CrawlGmarket.java:24)
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=798484120
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=798484120
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=798484120
+start from mainUrl http://gmarket.co.kr/
+http://gmarket.co.kr/
+mainList
+{link=http://category.gmarket.co.kr/listview/L100000103.aspx, gdlc_cd=100000103, category=브랜드 여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000104.aspx, gdlc_cd=100000104, category=브랜드 남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000105.aspx, gdlc_cd=100000105, category=브랜드 진/캐쥬얼}
+{link=http://category.gmarket.co.kr/listview/L100000108.aspx, gdlc_cd=100000108, category=브랜드 아동패션}
+{link=http://category.gmarket.co.kr/listview/L100000106.aspx, gdlc_cd=100000106, category=브랜드 신발/가방}
+{link=http://category.gmarket.co.kr/listview/L100000107.aspx, gdlc_cd=100000107, category=브랜드 쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=브랜드 아웃도어}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=브랜드 스포츠패션}
+{link=http://category.gmarket.co.kr/listview/L100000003.aspx, gdlc_cd=100000003, category=여성의류}
+{link=http://category.gmarket.co.kr/listview/L100000046.aspx, gdlc_cd=100000046, category=남성의류}
+{link=http://category.gmarket.co.kr/listview/L100000070.aspx, gdlc_cd=100000070, category=언더웨어}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000049.aspx, gdlc_cd=100000049, category=신발}
+{link=http://category.gmarket.co.kr/listview/L100000064.aspx, gdlc_cd=100000064, category=가방/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000027.aspx, gdlc_cd=100000027, category=쥬얼리/시계}
+{link=http://category.gmarket.co.kr/listview/L100000096.aspx, gdlc_cd=100000096, category=수입명품}
+{link=http://category.gmarket.co.kr/listview/L100000110.aspx, gdlc_cd=100000110, category=백화점 명품화장품}
+{link=http://category.gmarket.co.kr/listview/L100000005.aspx, gdlc_cd=100000005, category=화장품/향수}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000057.aspx, gdlc_cd=100000057, category=기저귀/분유}
+{link=http://category.gmarket.co.kr/listview/L100000006.aspx, gdlc_cd=100000006, category=육아용품}
+{link=http://category.gmarket.co.kr/listview/L100000042.aspx, gdlc_cd=100000042, category=장난감}
+{link=http://category.gmarket.co.kr/listview/L100000035.aspx, gdlc_cd=100000035, category=유아동의류}
+{link=http://category.gmarket.co.kr/listview/L100000095.aspx, gdlc_cd=100000095, category=아동신발/잡화}
+{link=http://category.gmarket.co.kr/listview/L100000020.aspx, gdlc_cd=100000020, category=신선식품}
+{link=http://category.gmarket.co.kr/listview/L100000036.aspx, gdlc_cd=100000036, category=가공식품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000094.aspx, gdlc_cd=100000094, category=커피/음료}
+{link=http://category.gmarket.co.kr/listview/L100000074.aspx, gdlc_cd=100000074, category=화장지/세제}
+{link=http://category.gmarket.co.kr/listview/L100000073.aspx, gdlc_cd=100000073, category=물티슈/생리대}
+{link=http://category.gmarket.co.kr/listview/L100000071.aspx, gdlc_cd=100000071, category=바디/헤어}
+{link=http://category.gmarket.co.kr/listview/L100000031.aspx, gdlc_cd=100000031, category=가구/DIY}
+{link=http://category.gmarket.co.kr/listview/L100000039.aspx, gdlc_cd=100000039, category=침구/커튼}
+{link=http://category.gmarket.co.kr/listview/L100000093.aspx, gdlc_cd=100000093, category=조명/인테리어}
+{link=http://category.gmarket.co.kr/listview/L100000014.aspx, gdlc_cd=100000014, category=생활용품}
+{link=http://category.gmarket.co.kr/listview/L100000085.aspx, gdlc_cd=100000085, category=주방용품}
+{link=http://category.gmarket.co.kr/listview/L100000041.aspx, gdlc_cd=100000041, category=꽃/이벤트용품}
+{link=http://category.gmarket.co.kr/listview/L100000045.aspx, gdlc_cd=100000045, category=문구/사무용품}
+{link=http://category.gmarket.co.kr/listview/L100000091.aspx, gdlc_cd=100000091, category=악기/수집}
+{link=http://category.gmarket.co.kr/listview/L100000038.aspx, gdlc_cd=100000038, category=반려동물용품}
+{link=http://category.gmarket.co.kr/listview/L100000002.aspx, gdlc_cd=100000002, category=노트북/PC}
+{link=http://category.gmarket.co.kr/listview/L100000082.aspx, gdlc_cd=100000082, category=모니터/프린터}
+{link=http://category.gmarket.co.kr/listview/L100000055.aspx, gdlc_cd=100000055, category=PC주변기기}
+{link=http://category.gmarket.co.kr/listview/L100000075.aspx, gdlc_cd=100000075, category=저장장치}
+{link=http://category.gmarket.co.kr/listview/L100000056.aspx, gdlc_cd=100000056, category=휴대폰}
+{link=http://category.gmarket.co.kr/listview/L100000033.aspx, gdlc_cd=100000033, category=카메라}
+{link=http://category.gmarket.co.kr/listview/L100000072.aspx, gdlc_cd=100000072, category=태블릿/게임}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향기기}
+{link=http://category.gmarket.co.kr/listview/L100000032.aspx, gdlc_cd=100000032, category=대형가전}
+{link=http://category.gmarket.co.kr/listview/L100000008.aspx, gdlc_cd=100000008, category=주방가전}
+{link=http://category.gmarket.co.kr/listview/L100000077.aspx, gdlc_cd=100000077, category=계절가전}
+{link=http://category.gmarket.co.kr/listview/L100000092.aspx, gdlc_cd=100000092, category=생활/미용가전}
+{link=http://category.gmarket.co.kr/listview/L100000102.aspx, gdlc_cd=100000102, category=음향가전}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강가전}
+{link=http://category.gmarket.co.kr/listview/L100000043.aspx, gdlc_cd=100000043, category=스포츠의류/운동화}
+{link=http://category.gmarket.co.kr/listview/L100000037.aspx, gdlc_cd=100000037, category=휘트니스/수영}
+{link=http://category.gmarket.co.kr/listview/L100000098.aspx, gdlc_cd=100000098, category=구기/라켓}
+{link=http://category.gmarket.co.kr/listview/L100000058.aspx, gdlc_cd=100000058, category=골프}
+{link=http://category.gmarket.co.kr/listview/L100000097.aspx, gdlc_cd=100000097, category=자전거/보드}
+{link=http://category.gmarket.co.kr/listview/L100000017.aspx, gdlc_cd=100000017, category=캠핑/낚시}
+{link=http://category.gmarket.co.kr/listview/L100000099.aspx, gdlc_cd=100000099, category=등산}
+{link=http://category.gmarket.co.kr/listview/L100000083.aspx, gdlc_cd=100000083, category=건강/의료용품}
+{link=http://category.gmarket.co.kr/listview/L100000068.aspx, gdlc_cd=100000068, category=건강식품}
+{link=http://category.gmarket.co.kr/listview/L100000030.aspx, gdlc_cd=100000030, category=자동차용품}
+{link=http://category.gmarket.co.kr/listview/L100000079.aspx, gdlc_cd=100000079, category=타이어/부품}
+{link=http://category.gmarket.co.kr/listview/L100000076.aspx, gdlc_cd=100000076, category=공구설비/자재}
+{link=http://category.gmarket.co.kr/listview/L100000048.aspx, gdlc_cd=100000048, category=e쿠폰}
+{link=http://category.gmarket.co.kr/listview/L100000084.aspx, gdlc_cd=100000084, category=상품권}
+http://category.gmarket.co.kr/listview/L100000103.aspx
+midList
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669, category=무지 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026661&ecp_gdlc=100000103&ecp_gdmc=200002669, category=프린트 패턴티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026662&ecp_gdlc=100000103&ecp_gdmc=200002669, category=스트라이프 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026663&ecp_gdlc=100000103&ecp_gdmc=200002669, category=롱/루즈핏 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026664&ecp_gdlc=100000103&ecp_gdmc=200002669, category=카라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026665&ecp_gdlc=100000103&ecp_gdmc=200002669, category=맨투맨/후드티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026666&ecp_gdlc=100000103&ecp_gdmc=200002669, category=민소매/나시 티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026667&ecp_gdlc=100000103&ecp_gdmc=200002669, category=터틀텍/폴라티셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026668&ecp_gdlc=100000103&ecp_gdmc=200002670, category=쉬폰/시스루 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026669&ecp_gdlc=100000103&ecp_gdmc=200002670, category=레이스/프릴 블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026670&ecp_gdlc=100000103&ecp_gdmc=200002670, category=프린트 셔츠/블라우스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026671&ecp_gdlc=100000103&ecp_gdmc=200002670, category=무지 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026672&ecp_gdlc=100000103&ecp_gdmc=200002670, category=체크 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026673&ecp_gdlc=100000103&ecp_gdmc=200002670, category=루즈핏/롱 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026674&ecp_gdlc=100000103&ecp_gdmc=200002670, category=청/데님 셔츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026675&ecp_gdlc=100000103&ecp_gdmc=200002671, category=캐주얼원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026676&ecp_gdlc=100000103&ecp_gdmc=200002671, category=럭셔리/정장원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026677&ecp_gdlc=100000103&ecp_gdmc=200002671, category=쉬폰/레이스원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026678&ecp_gdlc=100000103&ecp_gdmc=200002671, category=니트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026679&ecp_gdlc=100000103&ecp_gdmc=200002671, category=롱원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026680&ecp_gdlc=100000103&ecp_gdmc=200002671, category=점프수트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026681&ecp_gdlc=100000103&ecp_gdmc=200002671, category=플라워/프린트원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026682&ecp_gdlc=100000103&ecp_gdmc=200002671, category=탑/민소매원피스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026651&ecp_gdlc=100000103&ecp_gdmc=200002667, category=라운드넥 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026652&ecp_gdlc=100000103&ecp_gdmc=200002667, category=패턴 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026653&ecp_gdlc=100000103&ecp_gdmc=200002667, category=롱/원피스 니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026654&ecp_gdlc=100000103&ecp_gdmc=200002667, category=터틀넥/폴라니트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026655&ecp_gdlc=100000103&ecp_gdmc=200002668, category=루즈핏 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026656&ecp_gdlc=100000103&ecp_gdmc=200002668, category=라운드넥 가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026658&ecp_gdlc=100000103&ecp_gdmc=200002668, category=롱가디건}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026659&ecp_gdlc=100000103&ecp_gdmc=200002668, category=니트코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026648&ecp_gdlc=100000103&ecp_gdmc=200002666, category=니트 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026649&ecp_gdlc=100000103&ecp_gdmc=200002666, category=야상/데님 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026650&ecp_gdlc=100000103&ecp_gdmc=200002666, category=패딩 조끼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026635&ecp_gdlc=100000103&ecp_gdmc=200002663, category=테일러드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026636&ecp_gdlc=100000103&ecp_gdmc=200002663, category=노카라자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026637&ecp_gdlc=100000103&ecp_gdmc=200002663, category=캐주얼자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026638&ecp_gdlc=100000103&ecp_gdmc=200002663, category=트위드 자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026639&ecp_gdlc=100000103&ecp_gdmc=200002663, category=린넨/마자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026640&ecp_gdlc=100000103&ecp_gdmc=200002663, category=청자켓/데님점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026631&ecp_gdlc=100000103&ecp_gdmc=200002662, category=바람막이 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026632&ecp_gdlc=100000103&ecp_gdmc=200002662, category=집업/야구/항공점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026633&ecp_gdlc=100000103&ecp_gdmc=200002662, category=야상/사파리 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026634&ecp_gdlc=100000103&ecp_gdmc=200002662, category=패딩/다운 점퍼}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026641&ecp_gdlc=100000103&ecp_gdmc=200002664, category=트렌치 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026642&ecp_gdlc=100000103&ecp_gdmc=200002664, category=모직코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026643&ecp_gdlc=100000103&ecp_gdmc=200002664, category=하프코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026644&ecp_gdlc=100000103&ecp_gdmc=200002664, category=롱코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026645&ecp_gdlc=100000103&ecp_gdmc=200002665, category=무스탕/가죽자켓}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026646&ecp_gdlc=100000103&ecp_gdmc=200002665, category=모피/퍼 코트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026647&ecp_gdlc=100000103&ecp_gdmc=200002665, category=퍼 베스트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026684&ecp_gdlc=100000103&ecp_gdmc=200002673, category=면바지/슬렉스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026685&ecp_gdlc=100000103&ecp_gdmc=200002673, category=스키니/레깅스}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026686&ecp_gdlc=100000103&ecp_gdmc=200002673, category=반바지/치마바지}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026687&ecp_gdlc=100000103&ecp_gdmc=200002673, category=배기팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026688&ecp_gdlc=100000103&ecp_gdmc=200002673, category=정장팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026689&ecp_gdlc=100000103&ecp_gdmc=200002674, category=H라인 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026690&ecp_gdlc=100000103&ecp_gdmc=200002674, category=A라인/플레어스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026691&ecp_gdlc=100000103&ecp_gdmc=200002674, category=미니스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026692&ecp_gdlc=100000103&ecp_gdmc=200002674, category=롱스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026693&ecp_gdlc=100000103&ecp_gdmc=200002674, category=쉬폰/플리츠 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026694&ecp_gdlc=100000103&ecp_gdmc=200002674, category=모직/니트 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026695&ecp_gdlc=100000103&ecp_gdmc=200002674, category=정장 스커트}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026683&ecp_gdlc=100000103&ecp_gdmc=200002672, category=청바지/데님팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026700&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 세트/상의}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026705&ecp_gdlc=100000103&ecp_gdmc=200002675, category=트레이닝 팬츠}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300025748&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비키니/수영복}
+{link=http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026709&ecp_gdlc=100000103&ecp_gdmc=200002676, category=비치웨어}
+http://category.gmarket.co.kr/listview/List.aspx?gdsc_cd=300026660&ecp_gdlc=100000103&ecp_gdmc=200002669
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=729935549
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786255252
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785952673
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=778609821
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=730140710
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787603697
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=769936159
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=770350603
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781475648
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=785572027
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=786049508
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=787444645
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=781243716
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807483555
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=798484120
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=803619377
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=810648560
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=810572336
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=764936206
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=803886560
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=734538522
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=810949897
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=806334251
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=809197696
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=802708998
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=803886927
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=799731572
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=782358186
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=805165888
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=814273612
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=802621045
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807172873
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=806358333
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=764936199
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=804292527
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=814774303
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=809981075
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807947261
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=761118490
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=805264521
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=807455761
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=731749155
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=779132610
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=804962175
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=813512119
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=811814030
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=780713065
+http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=804626591

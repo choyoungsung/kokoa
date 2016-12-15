@@ -1,0 +1,161 @@
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:16:03,130] - 
+
+REQ http://www.gmarket.co.kr/index.asp?jaehuid=200003952&gclid=CIXKuO2%255Fl84CFZGVvQod%252DRQEGQ
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:16:03,133] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:16:03,598] - 
+RES 200
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:16:03,599] - RES {null=[HTTP/1.1 200 OK], Server=[Microsoft-IIS/7.5], Cache-Control=[private], Set-Cookie=[ASPSESSIONIDSSSRBRCC=JIHLGKLALOEMPJCLFGHBHLPF; path=/, jaehuid=200003952; domain=gmarket.co.kr; path=/, gmktloadingtimecheck=N; domain=gmarket.co.kr; path=/, Sif=7eff51c704b30175869b16c4813deba8; domain=gmarket.co.kr; path=/, user%5Finfo=isNego=N; domain=gmarket.co.kr; path=/, Pif=E9F8C5476690D6E17BFF5A32D38D494790D11946224687CA0B059BBCD2D98678D1396ED7EC74BCDA336AA21539694F12; domain=gmarket.co.kr; path=/, BASKET%5FCALLBACK%5FSTAT=F; domain=gmarket.co.kr; path=/], P3P=[CP="CAO DSP LAW CUR ADM DEV TAI PSA IVAo CONo HISo OTP OUR DEL LEG SAMo UNI COM PUR NAV INT STA"], Content-Length=[66256], Date=[Fri, 29 Jul 2016 01:15:58 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; Charset=euc-kr]}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:16:03,639] - 
+
+REQ http://www.gmarket.co.kr/index.asp?jaehuid=200003952&gclid=CIXKuO2%255Fl84CFZGVvQod%252DRQEGQ
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:16:03,640] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:16:03,664] - 
+RES 200
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:16:03,664] - RES {null=[HTTP/1.1 200 OK], Server=[Microsoft-IIS/7.5], Cache-Control=[private], Set-Cookie=[ASPSESSIONIDACQCTDSR=JEGDKPDBGPCKPOELOFBBNIOB; path=/, jaehuid=200003952; domain=gmarket.co.kr; path=/, gmktloadingtimecheck=N; domain=gmarket.co.kr; path=/, Sif=7eff51c704b30175869b16c4813deba8; domain=gmarket.co.kr; path=/, user%5Finfo=isNego=N; domain=gmarket.co.kr; path=/, Pif=E9F8C5476690D6E17BFF5A32D38D494790D11946224687CA0B059BBCD2D98678D1396ED7EC74BCDA336AA21539694F12; domain=gmarket.co.kr; path=/, BASKET%5FCALLBACK%5FSTAT=F; domain=gmarket.co.kr; path=/], P3P=[CP="CAO DSP LAW CUR ADM DEV TAI PSA IVAo CONo HISo OTP OUR DEL LEG SAMo UNI COM PUR NAV INT STA"], Content-Length=[66256], Date=[Fri, 29 Jul 2016 01:15:59 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; Charset=euc-kr]}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:16:47,194] - 
+
+REQ http://global.gmarket.co.kr/Home/Main
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:16:47,194] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:16:47,593] - 
+RES 200
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:16:47,593] - RES {null=[HTTP/1.1 200 OK], Server=[Microsoft-IIS/7.5], Cache-Control=[private, s-maxage=0], X-AspNet-Version=[4.0.30319], Set-Cookie=[shipnation=KR; domain=gmarket.co.kr; path=/, charset=enUS; domain=gmarket.co.kr; path=/], Content-Length=[35726], P3P=[CP="CAO DSP LAW CUR ADM DEV TAI PSA IVAo CONo HISo OTP OUR DEL LEG SAMo UNI COM PUR NAV INT STA"], Date=[Fri, 29 Jul 2016 01:16:43 GMT], X-Powered-By=[ASP.NET], X-AspNetMvc-Version=[4.0], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:16:47,612] - 
+
+REQ http://global.gmarket.co.kr/Home/Main
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:16:47,612] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:16:47,640] - 
+RES 200
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:16:47,641] - RES {null=[HTTP/1.1 200 OK], Server=[Microsoft-IIS/7.5], Cache-Control=[private, s-maxage=0], X-AspNet-Version=[4.0.30319], Set-Cookie=[shipnation=KR; domain=gmarket.co.kr; path=/, charset=enUS; domain=gmarket.co.kr; path=/], Content-Length=[35726], P3P=[CP="CAO DSP LAW CUR ADM DEV TAI PSA IVAo CONo HISo OTP OUR DEL LEG SAMo UNI COM PUR NAV INT STA"], Date=[Fri, 29 Jul 2016 01:16:42 GMT], X-Powered-By=[ASP.NET], X-AspNetMvc-Version=[4.0], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:17:14,270] - 
+
+REQ http://global.gmarket.co.kr/Home/Main
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:17:14,270] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:17:14,298] - 
+RES 200
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:17:14,299] - RES {null=[HTTP/1.1 200 OK], Server=[Microsoft-IIS/7.5], Cache-Control=[private, s-maxage=0], X-AspNet-Version=[4.0.30319], Set-Cookie=[shipnation=KR; domain=gmarket.co.kr; path=/, charset=enUS; domain=gmarket.co.kr; path=/], Content-Length=[35726], P3P=[CP="CAO DSP LAW CUR ADM DEV TAI PSA IVAo CONo HISo OTP OUR DEL LEG SAMo UNI COM PUR NAV IST STA"], Date=[Fri, 29 Jul 2016 01:17:09 GMT], X-Powered-By=[ASP.NET], X-AspNetMvc-Version=[4.0], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-4} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:17:35,232] - 
+
+REQ http://global.gmarket.co.kr/Home/Main
+TRACE ({pool-4-thread-4} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:17:35,233] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-4} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:17:35,680] - 
+RES 200
+TRACE ({pool-4-thread-4} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:17:35,680] - RES {null=[HTTP/1.1 200 OK], Server=[Microsoft-IIS/7.5], Cache-Control=[private, s-maxage=0], X-AspNet-Version=[4.0.30319], Set-Cookie=[shipnation=KR; domain=gmarket.co.kr; path=/, charset=enUS; domain=gmarket.co.kr; path=/], Content-Length=[35726], Date=[Fri, 29 Jul 2016 01:17:31 GMT], X-Powered-By=[ASP.NET], X-AspNetMvc-Version=[4.0], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-5} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:18:08,729] - 
+
+REQ http://global.gmarket.co.kr/Home/Main
+TRACE ({pool-4-thread-5} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:18:08,729] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-5} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:18:09,193] - 
+RES 200
+TRACE ({pool-4-thread-5} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:18:09,194] - RES {null=[HTTP/1.1 200 OK], Server=[Microsoft-IIS/7.5], Cache-Control=[private, s-maxage=0], X-AspNet-Version=[4.0.30319], Set-Cookie=[shipnation=KR; domain=gmarket.co.kr; path=/, charset=enUS; domain=gmarket.co.kr; path=/], Content-Length=[35726], P3P=[CP="CAO DSP LAW CUR ADM DEV TAI PSA IVAo CONo HISo OTP OUR DEL LEG SAMo UNI COM PUR NAV INT STA"], Date=[Fri, 29 Jul 2016 01:18:04 GMT], X-Powered-By=[ASP.NET], X-AspNetMvc-Version=[4.0], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:19:32,542] - 
+
+REQ https://www.amazon.com/
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:19:32,542] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:19:34,511] - 
+RES 200
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:19:34,512] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Connection=[keep-alive], Pragma=[no-cache], Date=[Fri, 29 Jul 2016 01:19:30 GMT], X-Frame-Options=[SAMEORIGIN], X-UA-Compatible=[IE=edge], Cache-Control=[no-cache], Set-Cookie=[session-id-time=2082787201l; Domain=.amazon.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=159-6948544-3142069; Domain=.amazon.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, skin=noskin; path=/; domain=.amazon.com], Vary=[Accept-Encoding,User-Agent], Expires=[-1], Content-Language=[en-US], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:19:35,352] - 
+
+REQ https://www.amazon.com/
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:19:35,352] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:19:35,607] - 
+RES 200
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:19:35,607] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], expires=[-1], Server=[Server], x-frame-options=[SAMEORIGIN], Connection=[keep-alive], p3p=[policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "], pragma=[no-cache], Date=[Fri, 29 Jul 2016 01:19:31 GMT], Vary=[Accept-Encoding,User-Agent], Set-Cookie=[skin=noskin; path=/; domain=.amazon.com], x-amz-id-1=[8734GB99WPCWS110A1B0], cache-control=[no-cache], Set-cookie=[session-id=163-3955555-0890446; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT, session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT, x-wl-uid=1uTfbZy5enpfFM02lc69cFunJ7gA5ttQj+kf0PPl63HccMA970HhfOQnokKBLtRoFKuMiTAhU4ss=; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT], Content-Type=[text/html; charset=UTF-8]}
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:20:29,720] - 
+
+REQ https://www.amazon.com/
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:20:29,720] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:20:30,869] - 
+RES 200
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:20:30,869] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Connection=[keep-alive], Pragma=[no-cache], Date=[Fri, 29 Jul 2016 01:20:26 GMT], X-Frame-Options=[SAMEORIGIN], X-UA-Compatible=[IE=edge], Cache-Control=[no-cache], Set-Cookie=[session-id-time=2082787201l; Domain=.amazon.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=168-7497760-0383305; Domain=.amazon.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, skin=noskin; path=/; domain=.amazon.com], Vary=[Accept-Encoding,User-Agent], Expires=[-1], Content-Language=[en-US], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:21:32,052] - 
+
+REQ https://www.amazon.com/movies-tv-dvd-bluray/b/ref=nav_shopall_mov?ie=UTF8&node=2625373011
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:21:32,052] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:21:33,190] - 
+RES 200
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:21:33,190] - RES {X-Frame-Options=[SAMEORIGIN], Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Connection=[keep-alive], Set-Cookie=[session-id-time=2100475289l; Domain=.amazon.com; Expires=Thu, 24-Jul-2036 01:21:29 GMT; Path=/, session-id=163-5195959-9878537; Domain=.amazon.com; Expires=Thu, 24-Jul-2036 01:21:29 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], x-amz-id-1=[KYS7GVPKCDB7X7G7B1M5], Date=[Fri, 29 Jul 2016 01:21:29 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:21:35,409] - 
+
+REQ https://www.amazon.com/movies-tv-dvd-bluray/b/ref=nav_shopall_mov?ie=UTF8&node=2625373011
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:21:35,410] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:21:35,724] - 
+RES 200
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:21:35,724] - RES {X-Frame-Options=[SAMEORIGIN], Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Connection=[keep-alive], Set-Cookie=[session-id-time=2100475291l; Domain=.amazon.com; Expires=Thu, 24-Jul-2036 01:21:31 GMT; Path=/, session-id=157-0106464-2570769; Domain=.amazon.com; Expires=Thu, 24-Jul-2036 01:21:31 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], x-amz-id-1=[73B5BQJ85NZ7EWQCZB4Y], Date=[Fri, 29 Jul 2016 01:21:31 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-9} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:21:45,739] - 
+
+REQ https://www.amazon.com/movies-tv-dvd-bluray/b/ref=nav_shopall_mov?ie=UTF8&node=2625373011
+TRACE ({pool-4-thread-9} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:21:45,739] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-9} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:21:46,455] - 
+RES 200
+TRACE ({pool-4-thread-9} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:21:46,455] - RES {X-Frame-Options=[SAMEORIGIN], Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Connection=[keep-alive], Set-Cookie=[session-id-time=2100475302l; Domain=.amazon.com; Expires=Thu, 24-Jul-2036 01:21:42 GMT; Path=/, session-id=156-4935566-6637843; Domain=.amazon.com; Expires=Thu, 24-Jul-2036 01:21:42 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], x-amz-id-1=[NJSTM9Q4GART6Y2T9723], Date=[Fri, 29 Jul 2016 01:21:42 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:23:55,740] - 
+
+REQ http://www.11st.co.kr/html/main.html?gclid=CLf-_MzBl84CFQsQvQodf9YAyA&utm_term=11ST&utm_campaign=%25B1%25B8%25B1%25DB_1105&utm_source=%25B1%25B8%25B1%25DB_S&utm_medium=%25B0%25CB%25BB%25F6
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:23:55,740] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:23:55,782] - 
+RES 200
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:23:55,783] - RES {null=[HTTP/1.1 200 OK], Server=[Apache], Last-Modified=[Fri, 29 Jul 2016 00:58:00 GMT], Date=[Fri, 29 Jul 2016 01:23:51 GMT], Via=[1.1 cache8 (jaguar/3.0-11)], Accept-Ranges=[bytes], Cache-Control=[max-age=1800], ETag=["21fad-538bbbdecb600"], Vary=[Accept-Encoding,User-Agent], Expires=[Fri, 29 Jul 2016 01:53:51 GMT], Content-Length=[139181], Age=[0], Content-Type=[text/html]}
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:23:55,885] - 
+
+REQ http://www.11st.co.kr/html/main.html?gclid=CLf-_MzBl84CFQsQvQodf9YAyA&utm_term=11ST&utm_campaign=%25B1%25B8%25B1%25DB_1105&utm_source=%25B1%25B8%25B1%25DB_S&utm_medium=%25B0%25CB%25BB%25F6
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:23:55,885] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:23:55,895] - 
+RES 200
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:23:55,895] - RES {null=[HTTP/1.1 200 OK], Server=[Apache], Last-Modified=[Fri, 29 Jul 2016 00:58:00 GMT], Date=[Fri, 29 Jul 2016 01:23:51 GMT], Via=[1.1 cache8 (jaguar/3.0-11)], Accept-Ranges=[bytes], Cache-Control=[max-age=1800], ETag=["21fad-538bbbdecb600"], Vary=[Accept-Encoding,User-Agent], Expires=[Fri, 29 Jul 2016 01:53:51 GMT], Content-Length=[139181], Age=[0], Content-Type=[text/html]}
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:24:29,862] - 
+
+REQ http://english.11st.co.kr/html/en/main.html
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:24:29,863] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:24:29,899] - 
+RES 200
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:24:29,899] - RES {Keep-Alive=[timeout=3], null=[HTTP/1.1 200 OK], Server=[Apache], Connection=[Keep-Alive], Last-Modified=[Fri, 29 Jul 2016 00:53:00 GMT], Date=[Fri, 29 Jul 2016 01:24:25 GMT], Accept-Ranges=[bytes], Cache-Control=[max-age=1800], ETag=["5311-538bbac0b1300"], Vary=[Accept-Encoding,User-Agent], Expires=[Fri, 29 Jul 2016 01:54:25 GMT], Content-Length=[21265], Content-Type=[text/html]}
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:24:29,928] - 
+
+REQ http://english.11st.co.kr/html/en/main.html
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:24:29,928] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:24:29,940] - 
+RES 200
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:24:29,940] - RES {Keep-Alive=[timeout=3], null=[HTTP/1.1 200 OK], Server=[Apache], Connection=[Keep-Alive], Last-Modified=[Fri, 29 Jul 2016 00:53:00 GMT], Date=[Fri, 29 Jul 2016 01:24:25 GMT], Accept-Ranges=[bytes], Cache-Control=[max-age=1800], ETag=["5311-538bbac0b1300"], Vary=[Accept-Encoding,User-Agent], Expires=[Fri, 29 Jul 2016 01:54:25 GMT], Content-Length=[21265], Content-Type=[text/html]}
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:24:50,703] - 
+
+REQ http://english.11st.co.kr/html/en/category/127680.html?xzone=ctgr1%5Ehtml
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:24:50,703] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:24:50,726] - 
+RES 200
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:24:50,726] - RES {Keep-Alive=[timeout=3], null=[HTTP/1.1 200 OK], Server=[Apache], Connection=[Keep-Alive], Last-Modified=[Fri, 29 Jul 2016 00:58:00 GMT], Date=[Fri, 29 Jul 2016 01:24:46 GMT], Accept-Ranges=[bytes], Cache-Control=[max-age=1800], ETag=["26d63-538bbbdecb600"], Vary=[Accept-Encoding,User-Agent], Expires=[Fri, 29 Jul 2016 01:54:46 GMT], Content-Length=[159075], Content-Type=[text/html]}
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:24:50,837] - 
+
+REQ http://english.11st.co.kr/html/en/category/127680.html?xzone=ctgr1%5Ehtml
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:24:50,837] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:24:50,849] - 
+RES 200
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:24:50,850] - RES {Keep-Alive=[timeout=3], null=[HTTP/1.1 200 OK], Server=[Apache], Connection=[Keep-Alive], Last-Modified=[Fri, 29 Jul 2016 00:58:00 GMT], Date=[Fri, 29 Jul 2016 01:24:46 GMT], Accept-Ranges=[bytes], Cache-Control=[max-age=1800], ETag=["26d63-538bbbdecb600"], Vary=[Accept-Encoding,User-Agent], Expires=[Fri, 29 Jul 2016 01:54:46 GMT], Content-Length=[159075], Content-Type=[text/html]}
+TRACE ({pool-4-thread-13} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:25:29,760] - 
+
+REQ http://english.11st.co.kr/html/en/category/127680.html?xzone=ctgr1%5Ehtml
+TRACE ({pool-4-thread-13} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:25:29,760] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-13} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:25:29,790] - 
+RES 200
+TRACE ({pool-4-thread-13} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:25:29,790] - RES {Keep-Alive=[timeout=3], null=[HTTP/1.1 200 OK], Server=[Apache], Connection=[Keep-Alive], Last-Modified=[Fri, 29 Jul 2016 00:58:00 GMT], Date=[Fri, 29 Jul 2016 01:25:25 GMT], Accept-Ranges=[bytes], Cache-Control=[max-age=1800], ETag=["26d63-538bbbdecb600"], Vary=[Accept-Encoding,User-Agent], Expires=[Fri, 29 Jul 2016 01:55:25 GMT], Content-Length=[159075], Content-Type=[text/html]}
+TRACE ({pool-4-thread-14} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:26:31,042] - 
+
+REQ http://english.11st.co.kr/html/en/category/127680.html?xzone=ctgr1%5Ehtml
+TRACE ({pool-4-thread-14} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:26:31,042] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-14} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:26:31,490] - 
+RES 200
+TRACE ({pool-4-thread-14} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:26:31,490] - RES {Keep-Alive=[timeout=3], null=[HTTP/1.1 200 OK], Server=[Apache], Connection=[Keep-Alive], Last-Modified=[Fri, 29 Jul 2016 00:58:00 GMT], Date=[Fri, 29 Jul 2016 01:26:27 GMT], Accept-Ranges=[bytes], Cache-Control=[max-age=1800], ETag=["26d63-538bbbdecb600"], Vary=[Accept-Encoding,User-Agent], Expires=[Fri, 29 Jul 2016 01:56:27 GMT], Content-Length=[159075], Content-Type=[text/html]}
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:27:07,080] - 
+
+REQ http://global.rakuten.com/ko/index-b.html?sclid=a_kr_sem_google_paid_brand_rakutencbtkr_krbrandkrkr_kr_nonrlsa_nonpromo&lsid=sVrRd0yPz_dc%257Cpcrid%257C111897731769%257Cpkw%257C%25EB%259D%25BC%25EC%25BF%25A0%25ED%2585%2590%257Cpmt%257Ce
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:27:07,080] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:27:07,574] - 
+RES 200
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:27:07,574] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[max-age=0, no-cache, no-store], Server=[Apache], X-Content-Type-Options=[nosniff], Connection=[Transfer-Encoding, keep-alive], Pragma=[no-cache], Expires=[Fri, 29 Jul 2016 01:27:03 GMT], X-XSS-Protection=[1; mode=block], Date=[Fri, 29 Jul 2016 01:27:03 GMT], Content-Type=[text/html]}
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-29 10:27:07,653] - 
+
+REQ http://global.rakuten.com/ko/index-b.html?sclid=a_kr_sem_google_paid_brand_rakutencbtkr_krbrandkrkr_kr_nonrlsa_nonpromo&lsid=sVrRd0yPz_dc%257Cpcrid%257C111897731769%257Cpkw%257C%25EB%259D%25BC%25EC%25BF%25A0%25ED%2585%2590%257Cpmt%257Ce
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-29 10:27:07,654] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGet]:73) [2016-07-29 10:27:07,730] - 
+RES 200
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGet]:76) [2016-07-29 10:27:07,731] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[max-age=0, no-cache, no-store], Server=[Apache], X-Content-Type-Options=[nosniff], Connection=[Transfer-Encoding, keep-alive], Pragma=[no-cache], Expires=[Fri, 29 Jul 2016 01:27:03 GMT], X-XSS-Protection=[1; mode=block], Date=[Fri, 29 Jul 2016 01:27:03 GMT], Content-Type=[text/html]}

@@ -1,0 +1,445 @@
+<html>
+ <head> 
+  <!-- start of header<meta, css, script> -->     
+  <title> - LUSH KOREA</title>                    
+  <!--<script src="https://spi.maps.daum.net/imap/map_js_init/postcode.js"></script> daum 우편번호 api https -->  
+  <!-- 네이버 프리미엄 로그 분석 --> 
+  <!-- end of header -->     
+ </head> 
+ <!-- <body class="img_style"> --> 
+ <body> 
+  <!-- <body class="img_style" onload="info_pop();")> -->
+  <!--body에 배경을 깔 경우 교체 --> 
+  <!-- start of header -->  
+  <!-- skip --> 
+  <div> 
+   <a>상단메뉴 바로가기</a> 
+   <a>메뉴 바로가기</a> 
+   <a>컨텐츠 바로가기</a> 
+   <a>사이드메뉴 바로가기</a> 
+   <a>footer 바로가기</a> 
+  </div> 
+  <!-- // skip --> 
+  <!-- TOP BANNER  --> 
+  <!-- //TOP BANNER  --> 
+  <div> 
+   <div> 
+    <div>  
+     <ul> 
+      <li><a>로그인</a></li> 
+      <li><a>회원가입</a></li> 
+      <li><a>장바구니</a></li> 
+      <li><a>주문배송조회</a></li> 
+      <li><a>멤버십혜택</a></li> 
+      <li><a>고객센터</a></li> 
+      <li><a>매장찾기</a></li> 
+     </ul> 
+     <!-- gnb --> 
+     <ul> 
+      <!--<li><a href="/site/shop/lush0920/view.jsp"><img src="/site/res/img/common/gnb_01.gif" alt="0920" /></a></li>--> 
+      <!--<li><a href="/site/shop/product/list.jsp?cat2_cd=20&cat3_cd=81"><img src="/site/res/img/common/gnb_12.gif" alt="LIMITED" /></a></li>--> 
+      <li></li> 
+      <li></li> 
+      <!--<li><a href="/site/shop/product/list.jsp?cat2_cd=8"><img src="/site/res/img/common/gnb_04.gif" alt="SHOPPING" /></a></li>--> 
+      <li></li> 
+      <!--<li><a href="/site/concert/index.jsp"><img src="/site/res/img/common/gnb_06.gif" alt="CONCERT" /></a></li>--> 
+      <li></li> 
+      <li></li> 
+     </ul> 
+     <!-- //gnb  --> 
+     <!-- form --> 
+     <form> 
+      <div> 
+       <fieldset> 
+        <legend>검색하기</legend>  
+       </fieldset> 
+      </div>
+      <!-- /srch_bar --> 
+     </form> 
+     <!-- /form --> 
+    </div>
+    <!-- /hdr_inner --> 
+    <div> 
+     <ul> 
+      <li><a><span>베스트</span><span>BEST</span></a></li> 
+      <li><a><span>배쓰</span><span>Bath</span></a> 
+       <ul> 
+        <li><a>배쓰 밤</a></li> 
+        <li><a>버블 바</a></li> 
+        <li><a>배쓰 오일</a></li> 
+        <li><a>펀</a></li> 
+       </ul> </li> 
+      <li><a><span>샤워</span><span>Shower</span></a> 
+       <ul> 
+        <li><a>솝</a></li> 
+        <li><a>샤워 젤 &amp; 젤리</a></li> 
+        <li><a>스무디 &amp; 컨디셔너</a></li> 
+        <li><a>스크럽 &amp; 버터</a></li> 
+        <li><a>펀</a></li> 
+       </ul> </li> 
+      <li><a><span>보디</span><span>Body</span></a> 
+       <ul> 
+        <li><a>클렌저</a></li> 
+        <li><a>로션</a></li> 
+        <li><a>핸드 앤 풋</a></li> 
+        <li><a>마사지 바</a></li> 
+        <li><a>보디 스프레이</a></li> 
+        <li><a>더스팅 파우더</a></li> 
+       </ul> </li> 
+      <li><a><span>페이스</span><span>Face</span></a> 
+       <ul> 
+        <li><a>클렌저</a></li> 
+        <li><a>토너</a></li> 
+        <li><a>모이스춰라이저</a></li> 
+        <li><a>마스크</a></li> 
+        <li><a>립</a></li> 
+        <li><a>쉐이빙 크림</a></li> 
+       </ul> </li> 
+      <li><a><span>헤어</span><span>Hair</span></a> 
+       <ul> 
+        <li><a>샴푸 바</a></li> 
+        <li><a>샴푸</a></li> 
+        <li><a>드라이 샴푸</a></li> 
+        <li><a>컨디셔너</a></li> 
+        <li><a>트리트먼트</a></li> 
+        <li><a>스타일링</a></li> 
+       </ul> </li> 
+      <li><a><span>메이크업</span><span>Makeup</span></a> 
+       <ul> 
+        <li><a>페이스 파우더</a></li> 
+        <li><a>파운데이션</a></li> 
+        <li><a>리퀴드 아이라이너</a></li> 
+        <li><a>크림 아이섀도우</a></li> 
+        <li><a>립스틱</a></li> 
+       </ul> </li> 
+      <li><a><span>퍼퓸</span><span>Perfume</span></a> 
+       <ul> 
+        <li><a>보디 스프레이</a></li> 
+        <li><a>고릴라 볼륨 3</a></li> 
+        <li><a>고릴라 볼륨 2</a></li> 
+        <li><a>고릴라 볼륨 1</a></li> 
+        <li><a>인센스</a></li> 
+       </ul> </li> 
+      <li><a><span>기프트</span><span>Gifts</span></a> 
+       <ul> 
+        <li><a>러쉬 세트</a></li> 
+        <li><a>악세서리</a></li> 
+       </ul> </li> 
+      <li><a><span>이벤트</span><span>Events</span></a> 
+       <ul> 
+        <li><a>여러분의 러쉬</a></li> 
+        <li><a>온라인 전용</a></li> 
+        <li><a>리미티드</a></li> 
+        <li><a>신제품</a></li> 
+        <li><a>크기.기분.나이쓰.</a></li> 
+       </ul> </li> 
+      <!--<li><a href="#" class="mc08 btn_sb">NEWS</a></li>--> 
+      <!--<li><a href="/site/event/news/list.jsp" class="mc08">NEWS</a></li>--> 
+      <!--<li><a href="/site/event/event/temp/2014/event_fate.jsp" class="mc08">FAT EXPO</a></li>--> 
+      <!--
+				<li><a href="/site/lushpe/review/list.jsp" class="mc09"><span class="ko">러쉬피</span><span class="en">LUSHPE</span></a>
+					<ul class="sc09">
+						<li><a href="/site/lushpe/review/list.jsp">사용후기</a></li>
+						<li><a href="/site/lushpe/staff_choice.jsp">스태프 초이스</a></li>
+						<li><a href="/site/lushpe/freshbio/fresh_mask.jsp">신선한 러쉬</a></li>
+						<li><a href="/site/lushpe/kwd.jsp">키워드</a></li>
+						<li><a href="http://www.lushtimes.co.kr" class="lush_times">LUSH TIMES</a></li>
+					</ul>
+				</li>
+				--> 
+     </ul> 
+     <p><a>NEWS</a></p> 
+    </div>
+    <!-- /gds_ctg --> 
+    <!-- BRAND 메뉴 --> 
+    <!--
+		<div id="brand_menu">
+			<ul>
+				<li class="first"><a href="/site/shop/bestseller/list.jsp" class="bs"><span class="ko">베스트셀러</span><span class="en">BEST SELLER</span></a></li>
+				<li><a href="/site/brand/board/whats_new.jsp"><span>WHAT'S NEW</span></a></li>
+				<li><a href="/site/brand/board/real_focus.jsp"><span>REAL FOCUS</span></a></li>
+				<li><a href="/site/brand/korea/10g_news.jsp"><span>LUSH KOREA</span></a></li>
+				<li><a href="/site/brand/campaign/campaign_main.jsp"><span>CAMPAIGN</span></a></li>
+				<li><a href="/site/brand/board/lush_story.jsp"><span>LUSH STORY</span></a></li>
+				<li><a href="/site/brand/board/we_believe.jsp"><span>WE BELIEVE</span></a></li>
+				<li><a href="/site/brand/history/lush_history_01.jsp"><span>HISTORY</span></a></li>
+				<li><a href="/site/brand/board/green_policy.jsp"><span>GREEN POLICY</span></a></li>
+				<li><a href="/site/brand/shop/list.jsp"><span>STORE</span></a></li>
+			</ul>
+		</div>
+		--> 
+    <!-- /brand_menu --> 
+    <!--   퀵 메뉴 시작 메인, 제품에만 해당--> 
+    <!--   퀵 메뉴 끝-->  
+   </div>
+   <!-- /hdr --> 
+  </div>
+  <!-- /hdr_wrap --> 
+  <!-- end of header --> 
+  <!-- form -->  
+  <!-- //form --> 
+  <div> 
+   <ul> 
+    <li><a><span>PC_MR_HAIR</span></a></li> 
+    <li><a><span>PC_MR_friends</span></a></li> 
+    <li><a><span>PC_MR_DGPHOTO</span></a></li> 
+    <li><a><span>PC_MR_WP7</span></a></li> 
+   </ul>
+   <!-- /mainVisual --> 
+  </div>
+  <!-- /main_visual_wrap --> 
+  <div> 
+   <div> 
+    <div> 
+     <div> 
+      <div> 
+       <div>  
+       </div> 
+       <div>  
+       </div> 
+      </div>
+      <!-- /m_mid_top --> 
+      <ul> 
+       <li></li> 
+       <li></li> 
+       <li></li> 
+       <li></li> 
+       <li></li> 
+      </ul>
+      <!-- /m_mid_list -->  
+      <div> 
+       <div> 
+        <ul> 
+         <li> 
+          <dl>  
+           <dd>
+            티 트리 워터 250g
+           </dd> 
+           <dd>
+            토너
+           </dd> 
+          </dl> </li> 
+         <li> 
+          <dl>  
+           <dd>
+            카마 콤바
+           </dd> 
+           <dd>
+            샴푸 바
+           </dd> 
+          </dl> </li> 
+         <li> 
+          <dl>  
+           <dd>
+            콜페이스
+           </dd> 
+           <dd>
+            클렌저
+           </dd> 
+          </dl> </li> 
+         <li> 
+          <dl>  
+           <dd>
+            더티 스타일링 크림
+           </dd> 
+           <dd>
+            스타일링
+           </dd> 
+          </dl> </li> 
+         <li> 
+          <dl>  
+           <dd>
+            더티 보디 스프레이
+           </dd> 
+           <dd>
+            보디 스프레이
+           </dd> 
+          </dl> </li> 
+        </ul> 
+        <ul> 
+         <li> 
+          <dl>  
+           <dd>
+            올리브 브랜치 250g
+           </dd> 
+           <dd>
+            샤워 젤 &amp; 젤리
+           </dd> 
+          </dl> </li> 
+         <li> 
+          <dl>  
+           <dd>
+            마스크 오브 매그너민티 125g
+           </dd> 
+           <dd>
+            스크럽 &amp; 버터
+           </dd> 
+          </dl> </li> 
+         <li> 
+          <dl>  
+           <dd>
+            마스크 오브 매그너민티 315g
+           </dd> 
+           <dd>
+            스크럽 &amp; 버터
+           </dd> 
+          </dl> </li> 
+         <li> 
+          <dl>  
+           <dd>
+            섹스 밤
+           </dd> 
+           <dd>
+            배쓰 밤
+           </dd> 
+          </dl> </li> 
+         <li> 
+          <dl>  
+           <dd>
+            뉴
+           </dd> 
+           <dd>
+            샴푸 바
+           </dd> 
+          </dl> </li> 
+        </ul> 
+       </div> 
+      </div>
+      <!-- /best_seller_wrap --> 
+      <div>  
+      </div>
+      <!-- /m_vClip -->  
+      <div> 
+       <div>  
+        <ul> 
+         <li><a>[공지사항] 6월 스토리텔링북 발행 일정 변경 안내</a></li> 
+         <li><a>[공지사항] 6/19 올앳 결제(승인) 서비스 점검 안내</a></li> 
+         <li><a>[공지사항] 06월 16일(목) 고객센터 휴무 안내</a></li> 
+        </ul> 
+       </div>
+       <!-- /ntc -->   
+      </div>
+      <!-- /m_mid_bot --> 
+     </div>
+     <!-- /main_inner --> 
+    </div>
+    <!-- /main --> 
+   </div>
+   <!-- /ctnr --> 
+  </div>
+  <!-- /cnt_wrap -->  
+  <!-- start of footer -->    
+  <div> 
+   <div> 
+    <div>  
+    </div> 
+   </div>
+   <!-- /bot_info_wrap --> 
+   <div> 
+    <div>  
+     <ul> 
+      <li><a>회사소개</a></li> 
+      <li><a><strong>개인정보취급방침</strong></a></li> 
+      <li><a>이용약관</a></li> 
+      <li><a>이메일무단수집거부</a></li> 
+      <li><a>판매약관</a></li> 
+      <li><a>고객센터</a></li> 
+      <li><a>매장찾기</a></li> 
+      <li><a>대량주문안내</a></li> 
+     </ul> 
+    </div> 
+    <div> 
+     <div> 
+      <p> <span>Follow LUSH</span>     </p>  
+     </div>
+     <!-- /ftr_side --> 
+     <div> 
+      <address> <strong>사이트 운영자:㈜러쉬코리아 / 대표이사:우미령</strong> 서울시 서초구 서초동 1321-6 서초동아타워 6층 사업자 등록번호:201-81-77964 / 통신판매업 신고번호:2012-서울서초-0647 / 개인정보관리책임자:우승용 고객센터:1644-2357(운영시간:09:00~18:00, 점심시간:11:50~13:00) / FAX:02-795-7516 / 문의메일:webmaster@lush.co.kr &nbsp; </address> 
+      <p>Copyright © LUSHKOREA co., Ltd. All rights reserved.</p> 
+     </div>
+     <!-- /ftr_adrs --> 
+    </div>
+    <!-- /ftr_inner --> 
+   </div>
+   <!-- //ftr --> 
+   <!-- layer popup s --> 
+   <div> 
+    <form> 
+     <div>  
+     </div> 
+     <div> 
+      <div> 
+       <div> 
+        <p>러쉬에 관심이 있다면, 뉴스구독으로 따끈따끈한 소식을 받아보세요.</p> 
+        <div> 
+         <label>구독을 위한 이메일 입력</label>   
+        </div> 
+        <div> 
+         <h3><strong>[필수]</strong> 개인정보 수집 및 이용에 대한 동의</h3> 
+         <table> 
+          <caption>
+           개인정보 수집 및 이용에 대한 동의
+          </caption>  
+          <thead> 
+           <tr> 
+            <th>수집자</th> 
+            <th>이용목적</th> 
+            <th>항목</th> 
+            <th>보유기간</th> 
+           </tr> 
+          </thead> 
+          <tbody> 
+           <tr> 
+            <td>㈜러쉬코리아</td> 
+            <td>신규 이벤트, 서비스, 정책, 상품의 안내 및 마케팅</td> 
+            <td> 이메일 </td> 
+            <td> 구독 신청 후 3개월 내지 이메일 수신거부 및 동의철회 시 파기 </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p><label>개인정보 수집 및 이용(필수)에 동의합니다.</label></p> 
+         <p> ※ 뉴스구독 서비스 제공을 위해서 필요한 최소한의 개인정보이므로 동의를 해야만 서비스를 이용하실 수 있습니다. </p> 
+        </div>
+        <!-- /privacy --> 
+        <div> 
+         <h3><strong>[필수]</strong> 개인정보의 취급위탁에 대한 동의</h3> 
+         <table>  
+          <thead> 
+           <tr> 
+            <th>위탁업체</th> 
+            <th>위탁업무내용</th> 
+            <th>수탁업체</th> 
+           </tr> 
+          </thead> 
+          <tbody> 
+           <tr> 
+            <td>㈜러쉬코리아</td> 
+            <td>신규 이벤트, 서비스, 정책, 상품의 안내 및 마케팅</td> 
+            <td> ㈜와이씨네트웍스 </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p><label>개인정보의 취급위탁(필수)에 동의합니다.</label></p> 
+         <p> ※ 개인정보 수집 및 이용 등의 외 ㈜와이씨네트웍스에 대한 개인정보 위탁에도 동의해 주셔야 이메잉을 통한 신규 이벤트, 서비스, 정책, 상품의 안내 및 마케팅이 가능합니다. </p> 
+        </div>
+        <!-- /privacy --> 
+       </div> 
+      </div> 
+      <div> 
+       <p>COPYRIGHT©(주)러쉬코리아 ALL RIGHTS RESERVED</p>  
+      </div> 
+     </div> 
+    </form> 
+   </div> 
+   <!-- layer popup e --> 
+  </div>
+  <!-- /ftr_wrap --> 
+  <!-- start of find rcv result --> 
+  <div></div> 
+  <!-- end of find rcv result -->  
+  <!-- adinsight 공통스크립트 start -->  
+  <!-- adinsight 공통스크립트 end --> 
+  <!-- end of footer -->    
+ </body>
+</html>
+

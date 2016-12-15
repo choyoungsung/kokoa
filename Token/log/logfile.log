@@ -1,0 +1,28 @@
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-08-02 14:55:00,398] - 
+
+REQ https://www.heels.com/brands
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-08-02 14:55:00,401] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-08-02 14:55:02,075] - 
+RES 200
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-08-02 14:55:02,076] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[no-store, no-cache, must-revalidate, post-check=0, pre-check=0], Server=[Apache/2.2.15 (Red Hat)], Connection=[Transfer-Encoding, keep-alive], Set-Cookie=[saved_cart_id=deleted; expires=Mon, 03-Aug-2015 05:54:59 GMT; path=/; domain=www.heels.com, heels_session=ijubcilpa1uvph21ub2f9t6vn2; path=/; domain=www.heels.com, heels_session=ijubcilpa1uvph21ub2f9t6vn2; path=/; domain=www.heels.com], Pragma=[no-cache], Expires=[Thu, 19 Nov 1981 08:52:00 GMT], Date=[Tue, 02 Aug 2016 05:55:00 GMT], Content-Type=[text/html; charset=UTF-8], X-Powered-By=[PHP/5.3.3]}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-08-02 15:08:37,489] - 
+
+REQ http://www.ikea.com/kr/ko/catalog/allproducts/
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-08-02 15:08:37,490] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:73) [2016-08-02 15:08:37,536] - 
+RES 200
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:76) [2016-08-02 15:08:37,536] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[IITP Server], Cache-Control=[public, private, max-age=22360], Connection=[Transfer-Encoding, keep-alive], Set-Cookie=[device=desktop; path=/; domain=.ikea.com, eaesssn=af41cf774e2d0000e438a057cc000000cb600000; path=/; domain=.ikea.com], Expires=[Tue, 02 Aug 2016 12:21:16 GMT], Last-Modified=[Mon, 01 Aug 2016 12:21:16 GMT], Pragma=[cache], Date=[Tue, 02 Aug 2016 06:08:36 GMT], Content-Language=[ko-KR], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-08-02 15:08:37,570] - 
+
+REQ http://www.ikea.com/kr/ko/catalog/allproducts/
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-08-02 15:08:37,570] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:73) [2016-08-02 15:08:37,592] - 
+RES 200
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:76) [2016-08-02 15:08:37,593] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[IITP Server], Cache-Control=[public, private, max-age=22360], Connection=[Transfer-Encoding, keep-alive], Set-Cookie=[device=desktop; path=/; domain=.ikea.com, eaesssn=af41cf774e2d0000e438a05704010000cc600000; path=/; domain=.ikea.com], Expires=[Tue, 02 Aug 2016 12:21:16 GMT], Last-Modified=[Mon, 01 Aug 2016 12:21:16 GMT], Pragma=[cache], Date=[Tue, 02 Aug 2016 06:08:36 GMT], Content-Language=[ko-KR], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-08-02 15:09:51,523] - 
+
+REQ https://www.heels.com/brands
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-08-02 15:09:51,523] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGet]:73) [2016-08-02 15:09:52,859] - 
+RES 200
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGet]:76) [2016-08-02 15:09:52,860] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[no-store, no-cache, must-revalidate, post-check=0, pre-check=0], Server=[Apache/2.2.15 (Red Hat)], Connection=[Transfer-Encoding, keep-alive], Set-Cookie=[saved_cart_id=deleted; expires=Mon, 03-Aug-2015 06:09:50 GMT; path=/; domain=www.heels.com, heels_session=vkta9tqvqu60t8pv7e4k8ksg20; path=/; domain=www.heels.com, heels_session=vkta9tqvqu60t8pv7e4k8ksg20; path=/; domain=www.heels.com], Pragma=[no-cache], Expires=[Thu, 19 Nov 1981 08:52:00 GMT], Date=[Tue, 02 Aug 2016 06:09:51 GMT], Content-Type=[text/html; charset=UTF-8], X-Powered-By=[PHP/5.3.3]}

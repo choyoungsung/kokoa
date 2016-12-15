@@ -1,0 +1,1622 @@
+
+
+<!DOCTYPE html public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head> 
+		<title id="txtHtmlTitle">모든 제품 - IKEA</title>
+
+		
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+<meta http-equiv="Content-Script-Type" content="text/javascript"/>
+<meta name="date_published" scheme="W3CDTF" content="2016-08-01" />
+
+<meta name="robots" content="index, follow" />
+
+<meta name="language" scheme="rfc1766" content="ko-KR" />
+<meta name="languageid" content="-77" />
+<meta name="store_id" content="53" />
+
+				<meta name="description" content="여기에 나열된 모든 IKEA 제품 찾기" />
+			
+		<meta name="keywords" content="모든 제품" />
+		<meta name="country" content="KR" />
+		<meta name="title" content="모든 제품 - IKEA" />
+		<meta name="IRWStats.pageName" content="All Products" />
+		<meta name="IRWStats.pageNameLocal" content="모든 제품" />
+		
+		<meta name="IRWStats.category" content="All Products" />
+		<meta name="IRWStats.pageType" content="All Products" />
+		<meta name="IRWStats.internalPageType" content="allproducts" />
+		<meta name="IRWStats.productFindingMethod" content="browse" />
+		<meta name="IRWStats.front" content="yes" />
+		<meta name="IRWStats.merchandisingCategory" content="yes"/>
+		
+			
+		<script language="JavaScript" src="//tags.tiqcdn.com/utag/ikea/kr-main/prod/utag.sync.js" type="text/javascript"></script>
+	
+<script language="JavaScript" src="/ms/js/js_main.js" type="text/javascript"></script>
+
+
+<script language="JavaScript" src="/ms/ko_KR/js/navOptions.js" type="text/javascript"></script>
+
+
+<script language="JavaScript" type="text/javascript">
+    var irwstats_locale = "ko_KR";
+    irwstatPrepareOmnitureConfig(irwstats_locale, "live");
+</script>
+<link rel="stylesheet" href="/ms/css/css_main.css" type="text/css"/>
+<link rel="stylesheet" id="localCSS" href="/ms/ko_KR/css/local_em.css" type="text/css"/>
+<script type="text/javascript" language="javascript">
+	//call the irwInit function in general.js
+	irwInit();
+</script>
+
+<script type="text/javascript" language="javascript">
+	//call the lastUrlCookie fn from cookie_util.js
+	storeUrlForBackShopping();
+</script>
+
+<script type="text/javascript">
+	// Variables needed for add to shopping list/shopping cart popup
+	var js_fn_CHOICE_VIEW_LIST = "쇼핑리스트 보기";
+	var js_fn_CHOICE_MORE_PRODUCT_LIST = "다음에 제품이 추가됨";
+	var js_fn_MOREPRODUCTS_HEADER = "제품이 추가됨";
+	var js_fn_MOREPRODUCTS_ERROR_HEADER = "오류";
+	var js_fn_MOREARTICLES_ERROR_TEXT = "제품";
+	var js_fn_POPUP_SELECT_HEADER = "리스트 선택";
+	var js_fn_POPUP_DONE_HEADER = "제품이 추가됨";
+	var js_fn_POPUP_DONE_TEXT = "다음에 제품이 추가됨:";
+	var js_fn_POPUP_SAVE_BTN = "저장";
+	var js_fn_POPUP_CLOSE_BTN = "닫기";
+	var js_fn_POPUP_CANCEL_BTN = "취소";
+	var js_fn_POPUP_ERROR_HEADER = "오류가 발생했습니다.";
+	var js_fn_POPUP_ERROR_TEXT = "죄송합니다. 고객님의 요청을 처리하는 중 오류가 발생했습니다.";
+	var js_fn_POPUP_LOGIN_HEADER = "&nbsp;";
+	var js_fn_POPUP_LOGIN_LINK = "&nbsp;";
+	var js_fn_POPUP_SIGNUP_LINK = "&nbsp;";
+	var js_fn_POPUP_LOGIN_TEXT = "새 리스트를 추가하거나, 향후 사용을 위해 보관하려면";
+	var js_fn_DEFAULT_LISTNAME = "쇼핑리스트";
+	var js_fn_POPUP_ERROR_MAX_NO_OF_LISTS = "만들 수 있는 최대 리스트 수를 초과했습니다.";
+	var js_fn_SHOPPING_CART  = "쇼핑카트 보기";
+	var js_fn_HASBEENADDEDTOSC = "나의 쇼핑카트에 추가되었습니다.";
+	var js_fn_COULDNOTBEADDEDTOSC = "쇼핑카트에 추가할 수 없습니다. 나중에 다시 시도해 주세요.";
+	var js_fn_POPUP_PRODUCTADDED = "제품이 쇼핑카트에 추가되었습니다.";
+	var js_fn_POPUP_VIEWCART_URL = "/webapp/wcs/stores/servlet/OrderItemDisplay?storeId=53&langId=-77&catalogId=11001&orderId=.&newLinks=true";
+	var js_fn_ERROR_CREATE_LIST = "죄송합니다. 리스트를 만드는 중 오류가 발생했습니다.";
+	var js_fn_ERROR_SHOPPING_LIST_MAX_ITEM_QUANTITY_LIMIT_EXCEEDED = "제품에 대한 최대 수량은 999입니다.";
+	var js_fn_ERROR_SHOPPING_LIST_MAX_LIMIT_EXCEEDED = "리스트에 담을 수 있는 최대 제품 수를 초과했습니다. ";
+	var js_fn_POPUP_CART_PRODUCTS = "product(s)";
+	var js_fn_POPUP_CART_TOTAL_PRICE = "Total price";
+	var js_fn_OI_txt_inclVat = "incl. VAT";
+	var js_fn_OI_txt_exclVat = "excl. VAT";
+	var js_fn_OI_txt_POPUP_inclVat = "Total price Including VAT";
+	var js_fn_OI_txt_POPUP_exclVat = "Total price Excluding VAT";
+	var js_fn_TXT_PRICE = "가격/";
+	var js_fn_UNIT_MEASURE_EN = "";
+	var js_fn_TXT_UNITPRICE = "단가";
+	var js_fn_defaultLocalStore_txt = "IKEA 매장 선택";
+    var js_ERR_PAY_COMMUNICATION_DISTR = "Communication with the payment processor failed while processing the transaction. Please try again or contact IKEA";
+    var js_ENABLE_STOCK_UNIT = "true";
+	var js_ENERGY_PRODUCT_FICHE = "제품정보<br>";
+	var sprTechInfoTabText =  "&nbsp;";
+	
+
+</script><!--[if IE]>
+  <link rel="stylesheet" href="/ms/css/ie.css" type="text/css"/>
+<![endif]-->
+<!--[if IE 7]>
+  <script type="text/javascript" src="/ms/js/ie7.js"></script>
+  <link rel="stylesheet" href="/ms/css/ie7.css" type="text/css"/>
+<![endif]-->
+<!--[if IE 6]>
+  <link rel="stylesheet" href="/ms/css/ie6.css" type="text/css"/>
+<![endif]-->
+<!--[if lt IE 6]>
+  <link rel="stylesheet" href="/ms/css/ie5_5.css" type="text/css"/>
+<![endif]-->
+<!--[if lte IE 6]>
+  <script src="/ms/js/iepngfix_tilebg.js" type="text/javascript"></script>
+<![endif]-->
+
+		<script type="text/javascript">
+			var startUrl = "\x2Fkr\x2Fcatalog\x2Fallproducts\x2F";
+			
+			
+			if(startUrl.contains("allproducts")){
+			    
+			    if(startUrl.contains("department"))
+			    {
+			        if(startUrl.contains("department/")){
+			            
+			            startUrl= startUrl.substr(0,37); 
+		          
+			        }else{
+			            startUrl= startUrl.substr(0,36); 
+			          
+			        }
+			    }
+			    
+			    if(startUrl.contains("alphabetical") && !startUrl.contains("department"))
+			    {
+			        if(startUrl.contains("alphabetical/")){
+			            
+			            startUrl= startUrl.substr(0,39); 
+		          
+			        }else{
+			            startUrl= startUrl.substr(0,38); 
+			          
+			        }
+			    }
+			    if(!startUrl.contains("alphabetical") && !startUrl.contains("department"))
+			    {
+			        if(startUrl.contains("allproducts")){
+			            
+			            startUrl= startUrl.substr(0,26); 
+		          
+			        }
+			    }
+			    
+			}
+			
+			if(!startUrl.endsWith("/")) startUrl = startUrl + "/";
+			if(startUrl.endsWith("department/")) startUrl = startUrl.substr(0,startUrl.length-11);
+			if(startUrl.endsWith("alphabetical/")) startUrl = startUrl.substr(0,startUrl.length-13);
+			var optionUrls = [startUrl,startUrl+"department/",startUrl+"alphabetical/"];
+		</script>
+					
+	</head>
+	<body onload="">
+	<div xmlns:tns="http://www.w3.org/1999/xhtml"><a class="skipToMainContent" href="#mainContent"></a></div><div id="allContent"><div id="mainPadding">
+
+
+        
+        
+
+
+
+<script type="text/javascript">
+<!-- INCLUDE TEALIUM UTAG.JS ASYNCHRONOUSLY FOR IN THE BEGINNING OF BODY -->
+// part in bold should be configurable in settings per market
+ (function(a, b, c, d) {
+  a = '//tags.tiqcdn.com/utag/ikea/kr-main/prod/utag.js';
+  b = document;
+  c = 'script';
+  d = b.createElement(c);
+  d.src = a;
+  d.type = 'text/java' + c;
+  d.async = true;
+  a = b.getElementsByTagName(c)[0];
+  a.parentNode.insertBefore(d, a);
+})();
+<!-- INCLUDE TEALIUM UTAG.JS ASYNCHRONOUSLY FOR IN THE BEGINNING OF BODY -->
+</script>
+
+		<div class="access" title="The access keys enabled are:">
+		
+		</div>		
+        <div id="topMenu" class="topMenu">
+            <form id="myAccount" action="/webapp/wcs/stores/servlet/LogonForm" method="get">
+                <div>
+                    <input type="hidden" name="storeId" value="53" />
+                    <input type="hidden" name="langId" value="-77" />
+                    <input type="hidden" name="catalogId" value="11001" />
+                </div>
+            </form>
+                <div class="logoContainer">
+                    <a href="/kr/ko/" id="lnkIKEALogoHeader" class="logoLink">
+                        <img src="/ms/img/header/logo.gif" alt="안녕하세요. IKEA Korea 입니다." class="logo" id="imgIKEALogoHeader"/>
+                    </a>
+                    
+                        <div class="searchForm">
+                    
+                            <form action="/kr/ko/search/" id="searchForm" method="get" onsubmit="return checkSearch(this)" accept-charset="utf-8,*">
+                                
+                                
+                                    
+                                
+                                    
+                                
+                                <div class="formInput">
+                                    <input type="text" value="" name="query" id="search" />
+                                </div>
+                                <div class="formBtn">
+                                    <script type="text/javascript">
+                                        //<![CDATA[
+                                            createButton('검색', 'lnkSearchBtnHeader', '', function() { search('searchForm'); });
+                                        //]]>
+                                    </script>
+                                    <noscript>
+                                        <div class="buttonContainer"><a href="javascript:void(0);"><span class="buttonLeft">&nbsp;</span><span class="buttonCaption"><input id="lnkSearchBtnHeader" type="submit" value="검색" /></span><span class="buttonRight">&nbsp;</span></a></div>
+                                    </noscript>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="ikeaTagline" id="txtIKEATagHeader"></div>
+                            <script type="text/javascript">
+                                //<![CDATA[
+                                    var storeId='53';
+                                    var userInfo = getUserInfo('53','normal');
+                                    document.observe('dom:loaded', function() {
+                                        userInfo = getUserInfo('53');
+                                        updateWelcomeText();
+                                        updateNoOfCartItems('53');
+                                        generateScLinkListener('53');
+                                    });
+                                    function updateWelcomeText() {
+                                        var userLoggedIn = '{title} {lastname} {firstname}님! 안녕하세요.{firstname}님이 아니시면 <a href="/webapp/wcs/stores/servlet/Logoff?langId=-77&amp;storeId=53&amp;forgetMe=true" rel="nofollow">여기를 클릭하세요.</a>';
+                                        var userNotLoggedIn = '안녕하세요. IKEA Korea 입니다.';
+                                        if(userInfo != null && userInfo.firstName!= "" && userInfo.firstName!= "") {
+                                            userLoggedIn = userLoggedIn.replace(/{firstname}/g,userInfo.firstName.escapeHTML());
+                                            userLoggedIn = userLoggedIn.replace(/{lastname}/g,userInfo.lastName.escapeHTML());
+                                            userLoggedIn = userLoggedIn.replace(/{title}/g,userInfo.title.escapeHTML());
+                                            document.getElementById("txtIKEATagHeader").innerHTML = userLoggedIn;
+                                        }else{
+                                            document.getElementById("txtIKEATagHeader").innerHTML = userNotLoggedIn;
+                                        }
+                                    }
+                                //]]>
+                            </script>
+                        </div>
+                        <div class="rightSection">
+                            <div class="iconLinkContainer">
+                                <div class="iconLink">
+                                    <a href="/ms/ko_KR/customer-service/how-to-shop/howtoshop_map.html" id="lnkIcon1Header">
+                                        <img src="/ms/ko_KR/img/vitality/homepage/2015header_shopping_icon_yellow.jpg" alt="IKEA에서 쇼핑하기"  class="annaSmall" id="annaSmall"/>
+                                        <span>IKEA에서 쇼핑하기</span>
+                                    </a>
+                                </div>
+                            </div>
+                
+                
+
+            
+                
+                <div class="linkList">
+                    <ul>
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="/kr/ko/store/gwangmyeong/activities" class="arrowLink" id="link_header_/kr/ko/store/gwangmyeong/activities">광명점</a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="http://ikeafamily.kr/" class="arrowLink arrowLinkActive" id="link_header_ikeafamily">IKEA FAMILY</a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=53&amp;langId=-77" class="arrowLink" id="link_header_shopping_list" rel="nofollow">나의 쇼핑리스트</a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                            
+                    </ul>
+                </div>
+                
+                <div class="linkList">
+                    <ul>
+                        
+                            
+                            
+                                    
+                                    
+                                <li>
+                                    <script type="text/javascript">
+                                        //<![CDATA[
+                                        if(haslogoffURL('53')) {
+                                            document.writeln("<a class='arrowLink' id='link_header_logout' href='/webapp/wcs/stores/servlet/Logoff?langId=-77&amp;storeId=53&amp;rememberMe=true' rel='nofollow'>로그아웃</a>");
+                                        }else{
+                                            document.writeln("<a class='arrowLink' id='link_header_login' href='javascript:logonLink();' rel='nofollow'>로그인</a>");
+                                        }
+                                        //]]>
+                                    </script>
+                                </li>
+                                
+                        
+                            
+                            
+                            
+                                    
+                                            <li>
+                                                <a href="/webapp/wcs/stores/servlet/UpdateUser?storeId=53&amp;langId=-77" class="arrowLink" id="link_header_update_user" rel="nofollow">내 프로필</a>
+                                                
+                                            </li>
+                                        
+                                
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div id="menu">
+            <div class="mainMenu">
+                <div class="tableContainer">
+                    <table>
+                        <tr>
+                            <td class="allProducts" id="allProducts">
+                                <a href="/kr/ko/catalog/allproducts/" id="lnkMainMenu1Header">
+                                    <span class="end">
+                                        <span class="separator">
+                                            <span class="padding">&#xBAA8;&#xB4E0; &#xC81C;&#xD488;</span> 
+                                        </span>
+                                    </span>   
+                                </a>
+                            </td>
+                            <td class="newAtIkea">
+                                <a href="/kr/ko/catalog/news/departments/" id="lnkMainMenu2Header">
+                                    <span class="separator">
+                                        <span class="padding">New</span>
+                                    </span>
+                                </a>
+                            </td>
+                             <td>
+                                <a href="/kr/ko/catalog/categories/departments/childrens_ikea/" id="lnkMainMenu3Header">
+                                    <span class="separator">
+                                        <span class="padding">Children's IKEA</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="/kr/ko/catalog/categories/departments/living_room/" id="lnkMainMenu4Header">
+                                    <span class="separator">
+                                        <span class="padding">&#xAC70;&#xC2E4;</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="/kr/ko/catalog/categories/departments/workspaces/" id="lnkMainMenu5Header">
+                                    <span class="separator">
+                                        <span class="padding">&#xD648;&#xC624;&#xD53C;&#xC2A4;</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="/kr/ko/catalog/categories/departments/bedroom/" id="lnkMainMenu6Header">
+                                    <span class="separator">
+                                        <span class="padding">&#xCE68;&#xC2E4;</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="/kr/ko/catalog/categories/departments/Textiles/" id="lnkMainMenu7Header">
+                                    <span class="separator">
+                                        <span class="padding">&#xD14D;&#xC2A4;&#xD0C0;&#xC77C;/&#xB7EC;&#xADF8;</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="/kr/ko/catalog/categories/departments/bathroom/" id="lnkMainMenu8Header">
+                                    <span class="separator">
+                                        <span class="padding">&#xC695;&#xC2E4;</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="/kr/ko/catalog/categories/departments/kitchen/" id="lnkMainMenu9Header">
+                                    <span class="separator">
+                                        <span class="padding">&#xC8FC;&#xBC29;</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="/kr/ko/catalog/categories/departments/dining/" id="lnkMainMenu10Header">
+                                    <span class="separator">
+                                        <span class="padding">&#xB2E4;&#xC774;&#xB2DD;</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td>
+                                <a href="/kr/ko/Local_homepage/homeideas.html?icid=iba|kr|hfideas|201512140207497557_1" id="lnkMainMenu11Header">
+                                    <span class="separator">
+                                        <span class="padding">&#xD648;&#xD37C;&#xB2C8;&#xC2F1; &#xC544;&#xC774;&#xB514;&#xC5B4;</span>
+                                    </span>
+                                </a>
+                            </td>
+
+                            <td style="width: 161px;"></td>
+                                <td id="moreRooms" class="moreRooms">
+                                <a href="javascript:;" onmouseover="tagVisibility('SELECT','hide');menuToggle('down');" onmouseout="tagVisibility('SELECT','show');menuToggle('up');" id="lnkMainMenu12Header">
+                                    <span class="end">
+                                        <span class="padding"><span class="arrow" id="arrow2">&nbsp;</span>전체 카테고리</span>
+                                    </span>
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <img src="/ms/img/header/main_menu_shadow.gif" alt="" class="mainMenuShadow"/>
+        </div>
+        <!-- prints the all departments menu -->
+        <script type="text/javascript">
+        //<![CDATA[
+            getProducts();
+            enableDepartmentLink();
+        //]]>
+        </script>
+        
+    
+
+
+
+
+
+
+<div id="main">
+		<div id="prfinfo">
+				<div class="headline">
+					Product Recycling Fund
+				</div>
+				<div class="body">
+					The price of this item includes a contribution to a Product recycling fund to ensure that waste electrical and electronic equipment is collected and recycled in a responsible manner.
+				</div>
+				<div class="link">
+					<a href="/ms/ko_KR/about_ikea_new/about/prf/prf.html">Read more on PRF</a>
+				</div>
+				<div class="btns">
+					<script type="text/javascript">
+						createButton("Close", "prfbtn", "", function() { closePrfPopup(); });
+					</script>			
+				</div>
+		</div>		
+		<a name="mainContent"></a>		
+
+		<div class="rightContent" id="allProductsMain">
+			<a name="mainContent"></a>
+
+			<div class="productsHeaderContainer align">
+				<h1 id="txtMainHdr" class="productsHeader">모든 제품</h1>
+			</div>
+			
+						
+			
+            <div id="allProductsContainer">
+				<div class="paginationContainerFW10 paginationContainerNoTopMargin">
+					<div class="paginationPadding">
+					<div class="paginationLeft">
+					
+					<span>검색 기준:</span>
+					<form id="sourceForm">
+						<select name="displayMode" onChange="location.href=optionUrls[this.form.displayMode.selectedIndex];">
+							<option value="function">기능</option>
+							<option value="department" >카테고리</option>
+							<option value="alphabetical" >가-하</option>
+						</select>
+						<noscript>
+							<div class="buttonContainer"><a href="javascript:void(0);"><div class="buttonLeft">&nbsp;</div><div class="buttonCaption"><input type="submit" value="확인" /></div><div class="buttonRight">&nbsp;</div></a></div>
+						</noscript>
+					</form>
+					</div>
+				</div></div>
+				<div class="productCategoryContainerWrapper">
+	                <div class="productCategoryContainer productCategoryContainerNoBorder">
+		                <span class="header">
+	                   		야외용가구
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt11" href="/kr/ko/catalog/categories/departments/outdoor/34203/">
+									야외텍스타일
+								</a>
+							
+								<a id="txt12" href="/kr/ko/catalog/categories/departments/outdoor/24898/">
+									바비큐
+								</a>
+							
+								<a id="txt13" href="/kr/ko/catalog/categories/departments/outdoor/21959/">
+									휴식용가구
+								</a>
+							
+								<a id="txt14" href="/kr/ko/catalog/categories/departments/outdoor/17893/">
+									야외용쿠션
+								</a>
+							
+								<a id="txt15" href="/kr/ko/catalog/categories/departments/outdoor/21964/">
+									야외용다이닝가구
+								</a>
+							
+								<a id="txt16" href="/kr/ko/catalog/categories/departments/outdoor/21957/">
+									야외용바닥재
+								</a>
+							
+								<a id="txt17" href="/kr/ko/catalog/categories/departments/outdoor/21958/">
+									야외정리용품
+								</a>
+							
+								<a id="txt18" href="/kr/ko/catalog/categories/departments/outdoor/17887/">
+									파라솔/가제보
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		유아/어린이 제품
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt21" href="/kr/ko/catalog/categories/departments/childrens_ikea/31772/">
+									유아용식기
+								</a>
+							
+								<a id="txt22" href="/kr/ko/catalog/categories/departments/childrens_ikea/18690/">
+									유아텍스타일
+								</a>
+							
+								<a id="txt23" href="/kr/ko/catalog/categories/departments/childrens_ikea/18716/">
+									유아장난감
+								</a>
+							
+								<a id="txt24" href="/kr/ko/catalog/categories/departments/childrens_ikea/18701/">
+									기저귀교환대/수유대
+								</a>
+							
+								<a id="txt25" href="/kr/ko/catalog/categories/departments/childrens_ikea/24711/">
+									8~12세 어린이용품
+								</a>
+							
+								<a id="txt26" href="/kr/ko/catalog/categories/departments/childrens_ikea/18723/">
+									어린이침대
+								</a>
+							
+								<a id="txt27" href="/kr/ko/catalog/categories/departments/childrens_ikea/24708/">
+									8~12세 어린이침대
+								</a>
+							
+								<a id="txt28" href="/kr/ko/catalog/categories/departments/childrens_ikea/24713/">
+									8~12세 어린이책상/의자
+								</a>
+							
+								<a id="txt29" href="/kr/ko/catalog/categories/departments/childrens_ikea/18773/">
+									아이방조명
+								</a>
+							
+								<a id="txt210" href="/kr/ko/catalog/categories/departments/childrens_ikea/24712/">
+									8~12세 어린이조명
+								</a>
+							
+								<a id="txt211" href="/kr/ko/catalog/categories/departments/childrens_ikea/18724/">
+									어린이매트리스
+								</a>
+							
+								<a id="txt212" href="/kr/ko/catalog/categories/departments/childrens_ikea/24709/">
+									8~12세 어린이매트리스
+								</a>
+							
+								<a id="txt213" href="/kr/ko/catalog/categories/departments/childrens_ikea/18762/">
+									어린이거울
+								</a>
+							
+								<a id="txt214" href="/kr/ko/catalog/categories/departments/childrens_ikea/18730/">
+									어린이텍스타일
+								</a>
+							
+								<a id="txt215" href="/kr/ko/catalog/categories/departments/childrens_ikea/24710/">
+									8~12세 어린이텍스타일
+								</a>
+							
+								<a id="txt216" href="/kr/ko/catalog/categories/departments/childrens_ikea/18682/">
+									유아용침대매트리스
+								</a>
+							
+								<a id="txt217" href="/kr/ko/catalog/categories/departments/childrens_ikea/18755/">
+									유아용침대
+								</a>
+							
+								<a id="txt218" href="/kr/ko/catalog/categories/departments/childrens_ikea/18715/">
+									유아용의자
+								</a>
+							
+								<a id="txt219" href="/kr/ko/catalog/categories/departments/childrens_ikea/18733/">
+									어린이의자
+								</a>
+							
+								<a id="txt220" href="/kr/ko/catalog/categories/departments/childrens_ikea/16249/">
+									안전
+								</a>
+							
+								<a id="txt221" href="/kr/ko/catalog/categories/departments/childrens_ikea/18767/">
+									소형가구
+								</a>
+							
+								<a id="txt222" href="/kr/ko/catalog/categories/departments/childrens_ikea/20475/">
+									소형수납
+								</a>
+							
+								<a id="txt223" href="/kr/ko/catalog/categories/departments/childrens_ikea/18706/">
+									수납가구
+								</a>
+							
+								<a id="txt224" href="/kr/ko/catalog/categories/departments/childrens_ikea/18835/">
+									수납시스템
+								</a>
+							
+								<a id="txt225" href="/kr/ko/catalog/categories/departments/childrens_ikea/18734/">
+									장난감/놀이
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		거울
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt31" href="/kr/ko/catalog/categories/departments/bathroom/20490/">
+									욕실거울
+								</a>
+							
+								<a id="txt32" href="/kr/ko/catalog/categories/departments/bedroom/20489/">
+									거울
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		욕실수납
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt41" href="/kr/ko/catalog/categories/departments/bathroom/20802/">
+									욕실수납
+								</a>
+							
+								<a id="txt42" href="/kr/ko/catalog/categories/departments/bathroom/10555/">
+									욕실용품
+								</a>
+							
+								<a id="txt43" href="/kr/ko/catalog/categories/departments/bathroom/20724/">
+									수도꼭지
+								</a>
+							
+								<a id="txt44" href="/kr/ko/catalog/categories/departments/bathroom/20723/">
+									세면기
+								</a>
+							
+								<a id="txt45" href="/kr/ko/catalog/categories/departments/bathroom/20719/">
+									세면대
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+		                </div>
+		                <div class="productCategoryDivider productCategoryDividerFirst"></div>
+		                <div class="productCategoryDivider"></div>
+		                <div class="productCategoryDivider"></div>
+		                <div class="productCategoryDivider"></div>
+	                <div class="productCategoryContainerWrapper">
+	                <div class="productCategoryContainer productCategoryContainerNoBorder">
+		                <span class="header">
+	                   		책상
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt51" href="/kr/ko/catalog/categories/departments/workspaces/16195/">
+									전선정리/관련용품
+								</a>
+							
+								<a id="txt52" href="/kr/ko/catalog/categories/departments/workspaces/20649/">
+									책상/컴퓨터책상
+								</a>
+							
+								<a id="txt53" href="/kr/ko/catalog/categories/departments/workspaces/10712/">
+									테이블상판/다리
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		침대/매트리스
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt61" href="/kr/ko/catalog/categories/departments/bedroom/24822/">
+									침대다리
+								</a>
+							
+								<a id="txt62" href="/kr/ko/catalog/categories/departments/bedroom/25205/">
+									수납형침대
+								</a>
+							
+								<a id="txt63" href="/kr/ko/catalog/categories/departments/bedroom/16284/">
+									더블침대
+								</a>
+							
+								<a id="txt64" href="/kr/ko/catalog/categories/departments/bedroom/24823/">
+									폼/라텍스 매트리스
+								</a>
+							
+								<a id="txt65" href="/kr/ko/catalog/categories/departments/bedroom/19037/">
+									간이침대/데이베드
+								</a>
+							
+								<a id="txt66" href="/kr/ko/catalog/categories/departments/bedroom/19064/">
+									침대헤드
+								</a>
+							
+								<a id="txt67" href="/kr/ko/catalog/categories/departments/bedroom/19039/">
+									로프트/2층침대
+								</a>
+							
+								<a id="txt68" href="/kr/ko/catalog/categories/departments/bedroom/24824/">
+									매트리스/베개보호패드
+								</a>
+							
+								<a id="txt69" href="/kr/ko/catalog/categories/departments/bedroom/24825/">
+									매트리스베이스
+								</a>
+							
+								<a id="txt610" href="/kr/ko/catalog/categories/departments/bedroom/24826/">
+									매트리스패드
+								</a>
+							
+								<a id="txt611" href="/kr/ko/catalog/categories/departments/bedroom/16285/">
+									싱글침대
+								</a>
+							
+								<a id="txt612" href="/kr/ko/catalog/categories/departments/bedroom/24827/">
+									침대갈빗살
+								</a>
+							
+								<a id="txt613" href="/kr/ko/catalog/categories/departments/living_room/10663/">
+									소파베드
+								</a>
+							
+								<a id="txt614" href="/kr/ko/catalog/categories/departments/bedroom/24828/">
+									스프링매트리스
+								</a>
+							
+								<a id="txt615" href="/kr/ko/catalog/categories/departments/bedroom/24829/">
+									우드베이스 스프링 매트리스
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		의자
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt71" href="/kr/ko/catalog/categories/departments/dining/25219/">
+									식탁의자
+								</a>
+							
+								<a id="txt72" href="/kr/ko/catalog/categories/departments/living_room/16239/">
+									암체어
+								</a>
+							
+								<a id="txt73" href="/kr/ko/catalog/categories/departments/dining/16244/">
+									바테이블/의자
+								</a>
+							
+								<a id="txt74" href="/kr/ko/catalog/categories/departments/dining/19141/">
+									카페가구
+								</a>
+							
+								<a id="txt75" href="/kr/ko/catalog/categories/departments/dining/19145/">
+									식탁세트
+								</a>
+							
+								<a id="txt76" href="/kr/ko/catalog/categories/departments/childrens_ikea/18715/">
+									유아용의자
+								</a>
+							
+								<a id="txt77" href="/kr/ko/catalog/categories/departments/childrens_ikea/18733/">
+									어린이의자
+								</a>
+							
+								<a id="txt78" href="/kr/ko/catalog/categories/departments/workspaces/20652/">
+									사무용의자
+								</a>
+							
+								<a id="txt79" href="/kr/ko/catalog/categories/departments/kitchen/20611/">
+									스텝스툴/사다리
+								</a>
+							
+								<a id="txt710" href="/kr/ko/catalog/categories/departments/dining/10728/">
+									스툴/벤치
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		의류수납
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt81" href="/kr/ko/catalog/categories/departments/bedroom/29880/">
+									오픈옷장
+								</a>
+							
+								<a id="txt82" href="/kr/ko/catalog/categories/departments/bedroom/10451/">
+									서랍장
+								</a>
+							
+								<a id="txt83" href="/kr/ko/catalog/categories/departments/bedroom/10452/">
+									의류정리용품
+								</a>
+							
+								<a id="txt84" href="/kr/ko/catalog/categories/departments/bedroom/11466/">
+									의류수납시스템
+								</a>
+							
+								<a id="txt85" href="/kr/ko/catalog/categories/departments/bedroom/29879/">
+									맞춤옷장
+								</a>
+							
+								<a id="txt86" href="/kr/ko/catalog/categories/departments/bedroom/16274/">
+									후크/옷걸이
+								</a>
+							
+								<a id="txt87" href="/kr/ko/catalog/categories/departments/hallway/10455/">
+									선반/스탠드
+								</a>
+							
+								<a id="txt88" href="/kr/ko/catalog/categories/departments/hallway/10456/">
+									신발장
+								</a>
+							
+								<a id="txt89" href="/kr/ko/catalog/categories/departments/hallway/10454/">
+									신발/코트/모자걸이
+								</a>
+							
+								<a id="txt810" href="/kr/ko/catalog/categories/departments/bedroom/19053/">
+									옷장
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+		                </div>
+		                <div class="productCategoryDivider productCategoryDividerFirst"></div>
+		                <div class="productCategoryDivider"></div>
+		                <div class="productCategoryDivider"></div>
+		                <div class="productCategoryDivider"></div>
+	                <div class="productCategoryContainerWrapper">
+	                <div class="productCategoryContainer productCategoryContainerNoBorder">
+		                <span class="header">
+	                   		장식
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt91" href="/kr/ko/catalog/categories/range/10372/31787/">
+									야외화분/식물
+								</a>
+							
+								<a id="txt92" href="/kr/ko/catalog/categories/departments/decoration/10760/">
+									양초/홀더
+								</a>
+							
+								<a id="txt93" href="/kr/ko/catalog/categories/departments/decoration/10759/">
+									시계
+								</a>
+							
+								<a id="txt94" href="/kr/ko/catalog/categories/departments/decoration/24924/">
+									장식용품
+								</a>
+							
+								<a id="txt95" href="/kr/ko/catalog/categories/departments/decoration/10757/">
+									액자/사진
+								</a>
+							
+								<a id="txt96" href="/kr/ko/catalog/categories/departments/decoration/16309/">
+									겨울용 소품
+								</a>
+							
+								<a id="txt97" href="/kr/ko/catalog/categories/departments/decoration/25227/">
+									종이제품
+								</a>
+							
+								<a id="txt98" href="/kr/ko/catalog/categories/departments/decoration/10768/">
+									식물/화분/스탠드
+								</a>
+							
+								<a id="txt99" href="/kr/ko/catalog/categories/departments/decoration/10769/">
+									꽃병/수반
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		IKEA FAMILY 제품
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt101" href="/kr/ko/catalog/categories/departments/ikea_family_products/16251/">
+									도서/게임
+								</a>
+							
+								<a id="txt102" href="/kr/ko/catalog/categories/departments/ikea_family_products/24847/">
+									게임/레저용품
+								</a>
+							
+								<a id="txt103" href="/kr/ko/catalog/categories/departments/childrens_ikea/16249/">
+									안전
+								</a>
+							
+								<a id="txt104" href="/kr/ko/catalog/categories/departments/ikea_family_products/16248/">
+									여행가방/백팩
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		주방수납장
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt111" href="/kr/ko/catalog/categories/departments/kitchen/24264/">
+									METOD/메토드 조리대
+								</a>
+							
+								<a id="txt112" href="/kr/ko/catalog/categories/departments/kitchen/10471/">
+									주방아일랜드/카트
+								</a>
+							
+								<a id="txt113" href="/kr/ko/catalog/categories/departments/kitchen/16298/">
+									손잡이
+								</a>
+							
+								<a id="txt114" href="/kr/ko/catalog/categories/departments/kitchen/24255/">
+									METOD/메토드 내부부속품
+								</a>
+							
+								<a id="txt115" href="/kr/ko/catalog/categories/departments/kitchen/24254/">
+									METOD/메토드 주방수납장/앞판
+								</a>
+							
+								<a id="txt116" href="/kr/ko/catalog/categories/departments/kitchen/24261/">
+									METOD/메토드 주방수도꼭지/싱크대
+								</a>
+							
+								<a id="txt117" href="/kr/ko/catalog/categories/departments/kitchen/22957/">
+									모듈식주방
+								</a>
+							
+								<a id="txt118" href="/kr/ko/catalog/categories/departments/kitchen/16200/">
+									팬트리
+								</a>
+							
+								<a id="txt119" href="/kr/ko/catalog/categories/departments/kitchen/20611/">
+									스텝스툴/사다리
+								</a>
+							
+								<a id="txt1110" href="/kr/ko/catalog/categories/departments/kitchen/19121/">
+									벽패널
+								</a>
+							
+								<a id="txt1111" href="/kr/ko/catalog/categories/departments/kitchen/20676/">
+									벽수납
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		조명
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt121" href="/kr/ko/catalog/categories/departments/lighting/35165/">
+									배터리/충전기
+								</a>
+							
+								<a id="txt122" href="/kr/ko/catalog/categories/departments/bathroom/10736/">
+									욕실조명
+								</a>
+							
+								<a id="txt123" href="/kr/ko/catalog/categories/departments/living_room/18750/">
+									천장조명
+								</a>
+							
+								<a id="txt124" href="/kr/ko/catalog/categories/departments/childrens_ikea/18773/">
+									아이방조명
+								</a>
+							
+								<a id="txt125" href="/kr/ko/catalog/categories/departments/childrens_ikea/24712/">
+									8~12세 어린이조명
+								</a>
+							
+								<a id="txt126" href="/kr/ko/catalog/categories/departments/outdoor/14971/">
+									장식조명
+								</a>
+							
+								<a id="txt127" href="/kr/ko/catalog/categories/departments/living_room/10731/">
+									플로어스탠드
+								</a>
+							
+								<a id="txt128" href="/kr/ko/catalog/categories/departments/lighting/16280/">
+									시스템조명
+								</a>
+							
+								<a id="txt129" href="/kr/ko/catalog/categories/departments/living_room/20515/">
+									LED조명
+								</a>
+							
+								<a id="txt1210" href="/kr/ko/catalog/categories/departments/living_room/10744/">
+									전구/관련용품
+								</a>
+							
+								<a id="txt1211" href="/kr/ko/catalog/categories/departments/living_room/10803/">
+									전등갓/본체/코드
+								</a>
+							
+								<a id="txt1212" href="/kr/ko/catalog/categories/departments/living_room/20506/">
+									스폿조명
+								</a>
+							
+								<a id="txt1213" href="/kr/ko/catalog/categories/departments/living_room/10732/">
+									탁상스탠드
+								</a>
+							
+								<a id="txt1214" href="/kr/ko/catalog/categories/departments/living_room/20503/">
+									벽부착등
+								</a>
+							
+								<a id="txt1215" href="/kr/ko/catalog/categories/departments/workspaces/20502/">
+									작업등
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+		                </div>
+		                <div class="productCategoryDivider productCategoryDividerFirst"></div>
+		                <div class="productCategoryDivider"></div>
+		                <div class="productCategoryDivider"></div>
+		                <div class="productCategoryDivider"></div>
+	                <div class="productCategoryContainerWrapper">
+	                <div class="productCategoryContainer productCategoryContainerNoBorder">
+		                <span class="header">
+	                   		소형수납
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt131" href="/kr/ko/catalog/categories/departments/bathroom/10555/">
+									욕실용품
+								</a>
+							
+								<a id="txt132" href="/kr/ko/catalog/categories/departments/workspaces/16213/">
+									휴지통/봉투
+								</a>
+							
+								<a id="txt133" href="/kr/ko/catalog/categories/departments/bedroom/10452/">
+									의류정리용품
+								</a>
+							
+								<a id="txt134" href="/kr/ko/catalog/categories/departments/bedroom/16274/">
+									후크/옷걸이
+								</a>
+							
+								<a id="txt135" href="/kr/ko/catalog/categories/departments/laundry/20597/">
+									세탁/청소
+								</a>
+							
+								<a id="txt136" href="/kr/ko/catalog/categories/departments/workspaces/10551/">
+									서류/미디어정리용품
+								</a>
+							
+								<a id="txt137" href="/kr/ko/catalog/categories/departments/living_room/10550/">
+									수납함/바구니
+								</a>
+							
+								<a id="txt138" href="/kr/ko/catalog/categories/departments/secondary_storage/18741/">
+									분리수거
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		소파/암체어
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt141" href="/kr/ko/catalog/categories/departments/living_room/31785/">
+									추가다리
+								</a>
+							
+								<a id="txt142" href="/kr/ko/catalog/categories/departments/living_room/16239/">
+									암체어
+								</a>
+							
+								<a id="txt143" href="/kr/ko/catalog/categories/departments/living_room/20855/">
+									긴의자
+								</a>
+							
+								<a id="txt144" href="/kr/ko/catalog/categories/departments/living_room/10664/">
+									커버
+								</a>
+							
+								<a id="txt145" href="/kr/ko/catalog/categories/departments/living_room/10661/">
+									패브릭소파
+								</a>
+							
+								<a id="txt146" href="/kr/ko/catalog/categories/departments/living_room/20926/">
+									풋스툴/쿠션형스툴
+								</a>
+							
+								<a id="txt147" href="/kr/ko/catalog/categories/departments/living_room/10662/">
+									천연/인조가죽 소파
+								</a>
+							
+								<a id="txt148" href="/kr/ko/catalog/categories/departments/living_room/16238/">
+									모듈식소파
+								</a>
+							
+								<a id="txt149" href="/kr/ko/catalog/categories/departments/living_room/10663/">
+									소파베드
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		수납가구
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt151" href="/kr/ko/catalog/categories/departments/living_room/30454/">
+									다용도수납장/식기장/콘솔테이블
+								</a>
+							
+								<a id="txt152" href="/kr/ko/catalog/categories/departments/bedroom/19059/">
+									침대수납
+								</a>
+							
+								<a id="txt153" href="/kr/ko/catalog/categories/departments/bedroom/20656/">
+									침대협탁
+								</a>
+							
+								<a id="txt154" href="/kr/ko/catalog/categories/departments/living_room/10382/">
+									책장
+								</a>
+							
+								<a id="txt155" href="/kr/ko/catalog/categories/departments/living_room/10384/">
+									수납장/장식장
+								</a>
+							
+								<a id="txt156" href="/kr/ko/catalog/categories/departments/bedroom/10451/">
+									서랍장
+								</a>
+							
+								<a id="txt157" href="/kr/ko/catalog/categories/departments/bedroom/11466/">
+									의류수납시스템
+								</a>
+							
+								<a id="txt158" href="/kr/ko/catalog/categories/departments/workspaces/10711/">
+									서랍유닛
+								</a>
+							
+								<a id="txt159" href="/kr/ko/catalog/categories/departments/bedroom/20657/">
+									화장대
+								</a>
+							
+								<a id="txt1510" href="/kr/ko/catalog/categories/departments/bedroom/19064/">
+									침대헤드
+								</a>
+							
+								<a id="txt1511" href="/kr/ko/catalog/categories/departments/living_room/29882/">
+									거실수납시스템
+								</a>
+							
+								<a id="txt1512" href="/kr/ko/catalog/categories/departments/kitchen/16200/">
+									팬트리
+								</a>
+							
+								<a id="txt1513" href="/kr/ko/catalog/categories/departments/living_room/11465/">
+									선반유닛
+								</a>
+							
+								<a id="txt1514" href="/kr/ko/catalog/categories/departments/workspaces/10385/">
+									수납장
+								</a>
+							
+								<a id="txt1515" href="/kr/ko/catalog/categories/departments/secondary_storage/10397/">
+									수납시스템/유닛
+								</a>
+							
+								<a id="txt1516" href="/kr/ko/catalog/categories/departments/living_room/10475/">
+									TV/멀티미디어가구
+								</a>
+							
+								<a id="txt1517" href="/kr/ko/catalog/categories/departments/living_room/10398/">
+									벽선반
+								</a>
+							
+								<a id="txt1518" href="/kr/ko/catalog/categories/departments/bedroom/19053/">
+									옷장
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		테이블
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt161" href="/kr/ko/catalog/categories/departments/dining/21825/">
+									식탁
+								</a>
+							
+								<a id="txt162" href="/kr/ko/catalog/categories/departments/dining/16244/">
+									바테이블/의자
+								</a>
+							
+								<a id="txt163" href="/kr/ko/catalog/categories/departments/bedroom/20656/">
+									침대협탁
+								</a>
+							
+								<a id="txt164" href="/kr/ko/catalog/categories/departments/dining/19141/">
+									카페가구
+								</a>
+							
+								<a id="txt165" href="/kr/ko/catalog/categories/departments/living_room/10705/">
+									커피테이블/보조테이블
+								</a>
+							
+								<a id="txt166" href="/kr/ko/catalog/categories/departments/dining/19145/">
+									식탁세트
+								</a>
+							
+								<a id="txt167" href="/kr/ko/catalog/categories/departments/bedroom/20657/">
+									화장대
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+		                </div>
+		                <div class="productCategoryDivider productCategoryDividerFirst"></div>
+		                <div class="productCategoryDivider"></div>
+		                <div class="productCategoryDivider"></div>
+		                <div class="productCategoryDivider"></div>
+	                <div class="productCategoryContainerWrapper">
+	                <div class="productCategoryContainer productCategoryContainerNoBorder">
+		                <span class="header">
+	                   		텍스타일/러그
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt171" href="/kr/ko/catalog/categories/departments/outdoor/34203/">
+									야외텍스타일
+								</a>
+							
+								<a id="txt172" href="/kr/ko/catalog/categories/departments/childrens_ikea/18690/">
+									유아텍스타일
+								</a>
+							
+								<a id="txt173" href="/kr/ko/catalog/categories/departments/bathroom/20519/">
+									욕실매트
+								</a>
+							
+								<a id="txt174" href="/kr/ko/catalog/categories/departments/bedroom/10651/">
+									침구
+								</a>
+							
+								<a id="txt175" href="/kr/ko/catalog/categories/departments/bedroom/20527/">
+									베드스프레드
+								</a>
+							
+								<a id="txt176" href="/kr/ko/catalog/categories/departments/living_room/20528/">
+									담요/스로우
+								</a>
+							
+								<a id="txt177" href="/kr/ko/catalog/categories/departments/childrens_ikea/18730/">
+									어린이텍스타일
+								</a>
+							
+								<a id="txt178" href="/kr/ko/catalog/categories/departments/living_room/18891/">
+									커튼봉/레일
+								</a>
+							
+								<a id="txt179" href="/kr/ko/catalog/categories/departments/living_room/10654/">
+									커튼/블라인드
+								</a>
+							
+								<a id="txt1710" href="/kr/ko/catalog/categories/departments/living_room/10659/">
+									쿠션/쿠션커버
+								</a>
+							
+								<a id="txt1711" href="/kr/ko/catalog/categories/departments/living_room/10655/">
+									패브릭/재봉
+								</a>
+							
+								<a id="txt1712" href="/kr/ko/catalog/categories/departments/Textiles/18850/">
+									주방텍스타일
+								</a>
+							
+								<a id="txt1713" href="/kr/ko/catalog/categories/departments/bedroom/24824/">
+									매트리스/베개보호패드
+								</a>
+							
+								<a id="txt1714" href="/kr/ko/catalog/categories/departments/bedroom/20533/">
+									베개
+								</a>
+							
+								<a id="txt1715" href="/kr/ko/catalog/categories/departments/Textiles/20538/">
+									테이블텍스타일
+								</a>
+							
+								<a id="txt1716" href="/kr/ko/catalog/categories/departments/bedroom/20529/">
+									이불
+								</a>
+							
+								<a id="txt1717" href="/kr/ko/catalog/categories/departments/Textiles/10653/">
+									러그
+								</a>
+							
+								<a id="txt1718" href="/kr/ko/catalog/categories/departments/bathroom/18908/">
+									샤워커튼
+								</a>
+							
+								<a id="txt1719" href="/kr/ko/catalog/categories/departments/bathroom/20520/">
+									수건
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		조립공구
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt181" href="/kr/ko/catalog/categories/departments/secondary_storage/16292/">
+									조립공구
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                <div class="productCategoryContainer ">
+		                <span class="header">
+	                   		TV/멀티미디어가구
+						</span>
+    	                <div class="textContainer">
+    	                	
+								<a id="txt191" href="/kr/ko/catalog/categories/departments/workspaces/16195/">
+									전선정리/관련용품
+								</a>
+							
+								<a id="txt192" href="/kr/ko/catalog/categories/departments/living_room/10475/">
+									TV/멀티미디어가구
+								</a>
+							
+		    			</div>
+		    		</div>
+		    		
+	                
+	                	</div>
+	                
+            </div>
+
+            <div class="horizontalShadowContainer align"><img id="imgShdwMain1" src="/ms/img/bgHorizDivider.gif" border="0" class="bgImg" alt=" "/></div>
+
+			
+			<div class="servicesContainer align">
+				   
+			</div>
+							
+
+        </div>
+
+		<div class="leftNavigation" id="allProductsNavigation">
+			<div class="productNavigation">
+				<div class="navigationBlock">
+					<div class="browseModule">
+						<div class="header">모든 제품(A-Z)</div>
+		                <div>제품 검색에 도움이 필요합니다.</div>
+		                <div class="sideModuleLink">
+		                <img src="/ms/img/link_arrow.gif" class="linkImg" border="0" alt="이름별 제품 찾기"/>
+						<a href="/kr/ko/catalog/productsaz/0/">
+							이름별 제품 찾기
+						</a>
+						</div>
+		            </div>
+		        </div>
+	        </div>
+
+			
+			<div class="adsContainer">
+				
+				<div class="adContainer">
+				 
+				</div>
+
+				
+						<div class="adContainer">
+					 
+				</div>
+				
+						<div class="adContainer">
+					 
+				</div>
+				
+				
+						<div class="adContainer">
+					 
+				</div>
+				
+						<div class="adContainer">
+					 
+				</div>				
+				
+			</div>
+		</div>
+        
+		
+
+</div></div><div style="clear: both;"></div> 
+
+
+
+        
+        
+        <div id="footer">
+
+            
+            <div class="linksWrapper">
+                
+                    <div class="linkContainer linkContainerFirst">
+				
+                    
+                    <div class="header">
+                    
+                            &#xCE74;&#xD0C8;&#xB85C;&#xADF8;&#xC640; &#xBE0C;&#xB85C;&#xC288;&#xC5B4;
+                        
+                    </div>
+                    
+                            
+                               
+                                    <a class="link" href="/ms/ko_KR/customer-service/about-shopping/catalogue-and-brochures/index.html">
+                                        &#xCE74;&#xD0C8;&#xB85C;&#xADF8; &#xC628;&#xB77C;&#xC778;&#xC5D0;&#xC11C; &#xBCF4;&#xAE30; 
+                                    </a>
+                                   
+                            
+                               
+                                    <a class="link" href="/ms/ko_KR/customer-service/buying-guides/index.html">
+                                        &#xC81C;&#xD488;&#xAD6C;&#xB9E4;&#xC548;&#xB0B4;
+                                    </a>
+                                   
+                            
+                               
+                                    <a class="link" href="/ms/ko_KR/customer-service/guarantee/guarantee.html">
+                                        IKEA &#xD488;&#xC9C8;&#xBCF4;&#xC99D;
+                                    </a>
+                                   
+                            
+                        
+                </div>
+                <div class="linkContainer"><div class="header"><a href="/ms/ko_KR/customer-service/index.html">&#xACE0;&#xAC1D;&#xC9C0;&#xC6D0;</a></div><a href="/ms/ko_KR/customer-service/how-to-shop/howtoshop_map.html">IKEA&#xC5D0;&#xC11C; &#xC1FC;&#xD551;&#xD558;&#xAE30;</a><a href="/ms/ko_KR/service-offer/index.html">IKEA &#xC11C;&#xBE44;&#xC2A4;</a><a href="/ms/ko_KR/customer-service/return-policy/index.html">&#xBC18;&#xD488;&#xC815;&#xCC45;</a><a href="/ms/ko_KR/customer-service/let-assemble/index.html">&#xC870;&#xB9BD;&#xD558;&#xAE30;</a><a href="/kr/ko/customerservices/faq">FAQ</a><a href="/ms/ko_KR/customer-service/contact-us/index.html">&#xACE0;&#xAC1D;&#xBB38;&#xC758;</a></div><div class="linkContainer"><div class="header"><a href="/ms/ko_KR/about-the-ikea-group/index.html">IKEA &#xADF8;&#xB8F9; &#xC774;&#xC57C;&#xAE30;</a></div><a href="/ms/ko_KR/this-is-ikea/the-ikea-concept/index.html">IKEA &#xCEE8;&#xC149;</a><a href="/ms/ko_KR/about-the-ikea-group/democratic-design/index.html">&#xB370;&#xBAA8;&#xD06C;&#xB798;&#xD2F1; &#xB514;&#xC790;&#xC778;</a><a href="/ms/ko_KR/about-the-ikea-group/company-information/index.html">IKEA &#xAE30;&#xC5C5; &#xC815;&#xBCF4; </a><a href="/ms/ko_KR/about-the-ikea-group/people-and-planet/index.html">&#xC0AC;&#xB78C;&#xACFC; &#xC9C0;&#xAD6C;</a></div><div class="linkContainer"><div class="header"><a href="/ms/ko_KR/about-the-ikea-group/working-at-the-ikea-group/index.html">IKEA &#xADF8;&#xB8F9;&#xACFC; &#xC77C;&#xD558;&#xAE30;</a></div><a href="/ms/en_KR/this-is-ikea/available-jobs/">&#xCC44;&#xC6A9;&#xC815;&#xBCF4;</a></div><div class="linkContainer"><div class="header"><a  href="/kr/ko/ikea_food/index.html">IKEA FOOD</a></div><a href="/kr/ko/ikea_food/index.html">&#xB808;&#xC2A4;&#xD1A0;&#xB791;</a><a href="/kr/ko/ikea_food/index.html">&#xC5B4;&#xB9B0;&#xC774; &#xBA54;&#xB274;</a><a href="/kr/ko/ikea_food/index.html">&#xBE44;&#xC2A4;&#xD2B8;&#xB85C;</a><a href="/kr/ko/ikea_food/index.html">&#xC2DD;&#xD488; &#xC815;&#xCC45;</a></div><div class="linkContainer lastLinkContainer"><div class="header"> 뉴스룸</div><a href="/kr/ko/about_ikea/newsroom/">&#xAE30;&#xC5C5;&#xB274;&#xC2A4;</a><a href="/ms/ko_KR/pressroom/index.html">&#xC81C;&#xD488;&#xB274;&#xC2A4;</a><a href="/ms/ko_KR/this-is-ikea/reports-downloads/index.html">&#xB9AC;&#xD3EC;&#xD2B8; &#xBC0F; &#xB2E4;&#xC6B4;&#xB85C;&#xB4DC;</a><a href="/ms/ko_KR/about_ikea/newsroom/product_recalls/index.html">&#xC81C;&#xD488;&#xB9AC;&#xCF5C;</a></div>
+    <div class="clearAll"></div> <!-- IKEA00671879 -->
+    </div> 
+        
+
+            <div class="copyRight" id="txtCopyFooter">
+                © Inter IKEA Systems B.V. 1999 - 2014
+                
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="/ms/ko_KR/privacy_policy/privacy_policy.html">
+                                웹사이트이용약관
+                            </a>
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="/ms/ko_KR/privacy_policy/20164_privacy_policy_ko.html">
+                                <b>IKEA Korea 개인정보처리방침</b>
+                            </a>
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="/ms/ko_KR/ikea_family/terms.html">
+                                IKEA FAMILY 개인정보취급처리방침
+                            </a>
+                        
+                            <span class="linkDivider">|</span>
+                            <a href="#none">
+                                IKEA 고객지원센터 1670-4532
+                            </a>
+                        
+                    
+                
+                
+                        
+                    
+                
+                <noscript>
+                    <div style="display: none;">
+                        <img src="https://smetrics.ikea.com/b/ss/ikeaallnojavascriptprod/5/?c8=kr&amp;pageName=nojavascript" alt="" width="5" height="5" />
+                    </div>
+                </noscript>
+        </div>
+    
+
+</div>
+        
+        
+    
+
+
+
+
+<div style="display:none;">
+		<script type="text/javascript">
+		irwstatSend();
+	    </script>
+	
+</div>
+<script src="/ms/js/new_survey_popup.js" type="text/javascript"></script>
+<script src="/ms/js/survey_global.js" type="text/javascript"></script>
+</body>
+</html>

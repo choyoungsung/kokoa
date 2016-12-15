@@ -1,0 +1,154 @@
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:55:58,053] - 
+
+REQ https://www.diapers.com
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:55:58,055] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:56:00,201] - 
+RES 307
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:56:00,202] - RES {null=[HTTP/1.1 307 Temporary Redirect], Server=[Server], Vary=[Accept-Encoding,User-Agent], Set-Cookie=[cookie-check=check; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Content-Length=[0], Date=[Wed, 27 Jul 2016 08:55:59 GMT], Location=[https://www.diapers.com:443/session/authorize?redirect_uri=https://www.diapers.com/]}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:56:00,203] - 
+
+REQ https://www.diapers.com:443/session/authorize?redirect_uri=https://www.diapers.com/
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:56:00,203] - REQ {Cookie=cookie-check=check; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:56:00,937] - 
+RES 307
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:56:00,937] - RES {null=[HTTP/1.1 307 Temporary Redirect], Server=[Server], Vary=[Accept-Encoding,User-Agent], Set-Cookie=[VISITOR_ID=9a4b61fe-5f86-4776-a3f1-d72aec1360d2; Expires=Mon, 27-Jul-2026 08:56:00 GMT; Path=/, ubid-main=161-6000466-6386719; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=168-1309537-7495753; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:56:01 GMT; Path=/], Content-Length=[0], Date=[Wed, 27 Jul 2016 08:55:59 GMT], Location=[https://www.diapers.com/]}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:56:00,937] - 
+
+REQ https://www.diapers.com/
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:56:00,938] - REQ {Cookie=VISITOR_ID=9a4b61fe-5f86-4776-a3f1-d72aec1360d2; Expires=Mon, 27-Jul-2026 08:56:00 GMT; Path=/;ubid-main=161-6000466-6386719; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=168-1309537-7495753; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:56:01 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:56:01,706] - 
+RES 200
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:56:01,706] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Set-Cookie=[session-token=ahw2Y2a65gT3xSB9uKD2Ruq5opAjJsts/ZLHz/WHxaLTIXB4cO7KTYZ57nvAuI8upZ+r/KG9UramxgNJD2noCLQ2MKKVsFmhOZBPb5Y59ononyQL49079tK/vS5OqRBZmHYaNo53rkvH5fQ8Gyd016aFTiMq5318Mxkvc4gJlppbwJN3ldErFfao5Z/Q+4zb; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id-time=2082787201l; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=168-1309537-7495753; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], Content-Language=[en-US], Date=[Wed, 27 Jul 2016 08:56:00 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:56:08,393] - 
+
+REQ https://www.diapers.com
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:56:08,394] - REQ {Cookie=VISITOR_ID=9a4b61fe-5f86-4776-a3f1-d72aec1360d2; Expires=Mon, 27-Jul-2026 08:56:00 GMT; Path=/;ubid-main=161-6000466-6386719; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=168-1309537-7495753; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:56:01 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:56:09,553] - 
+RES 200
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:56:09,554] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Set-Cookie=[session-token=7Beffe7XxvXY1+q1biEFH6zYqz5eCqDPP372qhdmLqyxm08C3tox/+tkZWUJa6WKS+3Ir50EJu01+wmZNww0ly/RrJmeoUcAFb79+kTi2SndJd47bsez1RsoXBX1x40Oj9buV+iuOx5oxxrXxLmpSsZAPBRw0RdBThv8wuN6KvVu3LSDodWmr9N+qRbNM6Ik; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id-time=2082787201l; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=168-1309537-7495753; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], Content-Language=[en-US], Date=[Wed, 27 Jul 2016 08:56:08 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:57:43,366] - 
+
+REQ https://www.diapers.com
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:57:43,368] - REQ {User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:57:44,570] - 
+RES 307
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:57:44,571] - RES {null=[HTTP/1.1 307 Temporary Redirect], Server=[Server], Vary=[Accept-Encoding,User-Agent], Set-Cookie=[cookie-check=check; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Content-Length=[0], Date=[Wed, 27 Jul 2016 08:57:43 GMT], Location=[https://www.diapers.com:443/session/authorize?redirect_uri=https://www.diapers.com/]}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:57:44,571] - 
+
+REQ https://www.diapers.com:443/session/authorize?redirect_uri=https://www.diapers.com/
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:57:44,572] - REQ {Cookie=cookie-check=check; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:57:45,332] - 
+RES 307
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:57:45,333] - RES {null=[HTTP/1.1 307 Temporary Redirect], Server=[Server], Vary=[Accept-Encoding,User-Agent], Set-Cookie=[VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/, ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/], Content-Length=[0], Date=[Wed, 27 Jul 2016 08:57:43 GMT], Location=[https://www.diapers.com/]}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:57:45,333] - 
+
+REQ https://www.diapers.com/
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:57:45,333] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:57:46,148] - 
+RES 200
+TRACE ({pool-4-thread-1} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:57:46,149] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Set-Cookie=[session-token=pAepItOnh5yp+o6j+xOEIXHNFpTVGTQl5fgebD4nR6rwO8jeXyyRVJNZsc6PFkUejTGKG/sjktviZ2rTfgVZlTMYRxQeW1FZUEESS5Lo+nSmKh3h0Pq+KPwiTsuPsTJviHqTA+IPRY7VT/DcSOdSH+3wQ7PexxFr5xbB2acvFKykltqYTUI74cHGWOe7FyuD; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id-time=2082787201l; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], Content-Language=[en-US], Date=[Wed, 27 Jul 2016 08:57:44 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:57:55,385] - 
+
+REQ https://www.diapers.com
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:57:55,386] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:57:56,522] - 
+RES 200
+TRACE ({pool-4-thread-2} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:57:56,522] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Set-Cookie=[session-token=GMfCbZkFDABgcnsj+2tnQAJepvPic3zwGfg3yBxPOCZwBgQA+6NWWEeuOXNhWfiDPuN80F3yF2QwDoH5cnZu+j1CxnTI7sYWxYt8soFxDiaFDphUaGnbZqpnaBV6Qqu5xIi9EVF0S4aSm++Rq16il8tyImQiya9lmYYocqkVs9pCDeH5g9l2l3viplDVYzw3; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id-time=2082787201l; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], Content-Language=[en-US], Date=[Wed, 27 Jul 2016 08:57:55 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 17:58:25,528] - 
+
+REQ https://www.diapers.com
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 17:58:25,528] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGet]:73) [2016-07-27 17:58:27,244] - 
+RES 200
+TRACE ({pool-4-thread-3} HttpReq.java[requestHttpGet]:76) [2016-07-27 17:58:27,244] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Set-Cookie=[session-token=2yaQzgJKYVMEkYRMn9haMhSx0HIsywg6gYoyCwSVEP6mYupWBytIStctPxrzUKIN0AnMvBQZ1/j67JbO0pVRnZYIGgJmfRwss5ohFShmhl4lZ6En4+7Osau3FzI0UEsHlRTAElwd1fW3idyGrg3PImM7YHSRlvBNBrCfHNPPKggS3pgE0QrDU4Ea3mogBWUq; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id-time=2082787201l; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], Content-Language=[en-US], Date=[Wed, 27 Jul 2016 08:58:25 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-4} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:00:19,676] - 
+
+REQ https://www.diapers.com
+TRACE ({pool-4-thread-4} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:00:19,676] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-4} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:00:21,157] - 
+RES 200
+TRACE ({pool-4-thread-4} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:00:21,157] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Set-Cookie=[session-token=FWPi8qDwEIxznLdM8mB+9DZCdAOo7VbCv2lq7Nb9PfkxY74704HuiVAKnWn2C3625+tg7XFZ0Wy3PrdLeOZn5YOffRlhV1Q6iSPBTUPEb7rdyx0lSIj39g3PKixpIGiXUSg0kxGiRkW+qGhtWxNWx8rPLl8bkaJo1ORBjU41jLqQv89qXw25rTRU5K+dgvzn; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id-time=2082787201l; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], Content-Language=[en-US], Date=[Wed, 27 Jul 2016 09:00:20 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-5} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:00:27,694] - 
+
+REQ https://www.diapers.com
+TRACE ({pool-4-thread-5} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:00:27,695] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-5} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:00:28,798] - 
+RES 200
+TRACE ({pool-4-thread-5} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:00:28,798] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Set-Cookie=[session-token=C0QharHKCCBqkQ6DCYpjd0CXSU9Rxdfx5djK+WNtanveamfEedaZDmlPR7Dcu8HDZbypO3NH9hbMrbrRd5ufm2jTJKU7Mz62+SgWTZYhlhRsXxgqRSdfr9eiwaqLiefD8HCDug1CrLMFf5oAK9DclOWcwEQ/Jo9LbbH2IFi2kvUcLgaQQpIVUZAN563GWI4g; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id-time=2082787201l; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], Content-Language=[en-US], Date=[Wed, 27 Jul 2016 09:00:27 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:16:35,124] - 
+
+REQ https://www.diapers.com
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:16:35,124] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:16:37,117] - 
+RES 200
+TRACE ({pool-4-thread-6} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:16:37,118] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Server=[Server], Set-Cookie=[session-token=8kWlhsvnnF7Bsc+6+x4ELf60ZBApmCBUfUXfj5MqfbBFdLUnDY6v9E1jP4GL2XIhcN3B5+iGoMZja8VakKVVEtKwZhafTFovkfdMM9O2dRqy2cH3NEn8jIvZejlmnpDBLEmLouQlbPWURh7gMSktiDajQXdFM1XfuTLbwHF/R1U00noqtmHWhkJxe6Jcyg+b; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id-time=2082787201l; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/, session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/], Vary=[Accept-Encoding,User-Agent], Content-Language=[en-US], Date=[Wed, 27 Jul 2016 09:16:35 GMT], Content-Type=[text/html;charset=UTF-8]}
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:16:54,077] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:16:54,077] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:16:54,824] - 
+RES 200
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:16:54,824] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-58, ASD-WEB-58], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:16:54 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:16:54,870] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:16:54,871] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:16:55,184] - 
+RES 200
+TRACE ({pool-4-thread-7} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:16:55,184] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-62, ASD-WEB-62], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:16:54 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:17:02,478] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:17:02,478] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:17:02,804] - 
+RES 200
+TRACE ({pool-4-thread-8} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:17:02,804] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-55, ASD-WEB-55], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:17:02 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-9} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:18:08,355] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-9} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:18:08,356] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-9} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:18:09,104] - 
+RES 200
+TRACE ({pool-4-thread-9} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:18:09,104] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-45, ASD-WEB-45], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:18:08 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:18:24,941] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:18:24,942] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:18:25,265] - 
+RES 200
+TRACE ({pool-4-thread-10} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:18:25,265] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-41, ASD-WEB-41], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:18:24 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:18:55,740] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:18:55,740] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:18:56,507] - 
+RES 200
+TRACE ({pool-4-thread-11} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:18:56,507] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-55, ASD-WEB-55], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:18:55 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:20:29,854] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:20:29,854] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:20:30,606] - 
+RES 200
+TRACE ({pool-4-thread-12} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:20:30,607] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-42, ASD-WEB-42], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:20:30 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-13} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:20:37,855] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-13} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:20:37,855] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-13} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:20:38,217] - 
+RES 200
+TRACE ({pool-4-thread-13} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:20:38,217] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-53, ASD-WEB-53], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:20:37 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-14} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:21:54,903] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-14} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:21:54,904] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-14} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:21:56,063] - 
+RES 200
+TRACE ({pool-4-thread-14} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:21:56,064] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-57, ASD-WEB-57], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:21:55 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGetWithRedirection]:34) [2016-07-27 18:22:44,557] - 
+
+REQ http://www.asos.com/
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGetWithRedirection]:35) [2016-07-27 18:22:44,557] - REQ {Cookie=VISITOR_ID=e12a70ef-637a-435d-b657-9e07b1f0686a; Expires=Mon, 27-Jul-2026 08:57:44 GMT; Path=/;ubid-main=157-2661161-2623037; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;session-id=156-6955697-9422162; Domain=www.diapers.com; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/;cookie-check=check; Domain=www.diapers.com; Expires=Wed, 27-Jul-2016 08:57:45 GMT; Path=/, User-Agent=Mozilla/5.0 (Windos NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0}
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGet]:73) [2016-07-27 18:22:45,308] - 
+RES 200
+TRACE ({pool-4-thread-15} HttpReq.java[requestHttpGet]:76) [2016-07-27 18:22:45,309] - RES {Transfer-Encoding=[chunked], null=[HTTP/1.1 200 OK], Cache-Control=[private], Server=[Microsoft-IIS/7.5], Connection=[Transfer-Encoding, keep-alive], serverName=[ASD-WEB-42, ASD-WEB-42], Vary=[User-Agent, Cookie], Set-Cookie=[uk-website#lang=en-GB; path=/, uk-website#lang=en-GB; path=/], Date=[Wed, 27 Jul 2016 09:22:44 GMT], X-Powered-By=[ASP.NET], Content-Type=[text/html; charset=utf-8]}
